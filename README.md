@@ -1,2 +1,1 @@
-# go-kabk-y1
-Year 1, BA Graphic Design, course material
+# Coding Y1, KABK graphic Design, course material (2024–2025)
