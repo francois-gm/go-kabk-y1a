@@ -19,7 +19,7 @@ Use the logic of XML languages:
 
 More about XML:
 
-- [List of XML languagesl](https://en.wikipedia.org/wiki/List_of_XML_markup_languages)
+- [List of XML languages on Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_markup_languages)
 - [BeerXML, a XML language for beer recipesl](https://beerxml.com/recipes.xml)
 - [Epub, a XML for digital booksl](https://gist.github.com/stormwild/86673836eb6153e6ab2e65b4353a289e)
 - [RecipeML, a XML for recipesl](https://en.wikipedia.org/wiki/RecipeML)
