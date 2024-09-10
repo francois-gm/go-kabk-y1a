@@ -23,7 +23,7 @@ _High level programming vs. low level programming_
 
 <br>
 
-<img src="hardware-vs-software.jpg" width="400px">
+<img src="hardware-vs-software.jpg" width="300px">
 
 _Hardware vs. software_
 
@@ -31,7 +31,7 @@ _Hardware vs. software_
 
 These various technological layers interacting and complementing each other, with their sheer complexity yet smooth outcomes, abstracts themselves from our view. And analogies between technology and magic keep coming back. 
 
-<img src="phone-magic.jpg" width="400px">
+<img src="phone-magic.jpg" width="250px">
 
 _Any sufficiently advanced technology is indistinguishable from magic. 
 —Arthur C. Clarke_
@@ -40,7 +40,7 @@ _Any sufficiently advanced technology is indistinguishable from magic.
 
 In a way, our world is a collection of interdependent functions, ecosystems, ecologies, technologies, techniques. Thinking about the resources and infrastructure necessary to turn on the light, read an email, drink water, eat an apple… And regarding technology, thinking about how this gets very physical with power plants producing energy, the grid transporting and ‘balancing’ it, interconnection stations, and underwater cables connecting worldwide data centers, which produce heat and must be cooled.
 
-<img src="equinix.jpg" width="300px">
+<img src="equinix.jpg" width="250px">
 
 _The internet is real... Datacenter AM4 (Equinix), designed by Benthem Crouwel,Amsterdam, NL_
 
@@ -48,7 +48,7 @@ _The internet is real... Datacenter AM4 (Equinix), designed by Benthem Crouwel,A
 
 And of course technologies can also be social and political ‘immaterial’ concepts with a real material impact. Of course language itself is a technology (written, spoken, visual, gestual). Everything is technology.
 
-<img src="illich.jpg" width="300px">
+<img src="illich.jpg" width="250px">
 
 _Michel Foucault (left) wrote a lot on ‘social’ technologies and power, while Ivan Illich (right) advocated for new ‘convivial’ uses of technology_
 
@@ -56,13 +56,13 @@ _Michel Foucault (left) wrote a lot on ‘social’ technologies and power, whil
 
 But, as well, thinking about the ecological infrastructure embedded in rhizomatic networks of underground roots sustaining a forest, in bees reproducing nature by feasting on nectar, in how water evaporating turns into rains and other meteorological phenomena, and so on.
 
-<img src="pando.jpg" width="300px">
+<img src="pando.jpg" width="250px">
 
 _Pando, the world’s largest tree, is a quaking aspen tree in Utah, United States.  A male clonal organism, Pando has an estimated 47,000 stems (ramets) that appear as individual trees, but are connected by a root system that spans 106 acres._
 
 <br>
 
-<img src="bees.jpg" width="300px">
+<img src="bees.jpg" width="250px">
 
 _Honey bee colonies have a complex social organization and an important ecological function_
 
@@ -82,7 +82,7 @@ the cosmetic, CSS.
 3) 	A kitchen, appliances, sinks, electric sockets, 
 a ventilation system, elements that provided added functionality: Javascript.
 
-<img src="home-analogy.jpg" width="400px">
+<img src="home-analogy.jpg" width="500px">
 
 _The house analogy_
 
