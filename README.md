@@ -22,16 +22,14 @@ In addition to in-class exercises, you will have 3-4 short assignments, each to 
 
 Every monday, 13h30-17h30, PD.205
 
-- First 15 minutes: web culture
-- Small presentation assignment, I present and you present
+First 15 minutes: web culture <br>
+Small presentation assignment, I present and you present
 
-- 2h-ish: presentations, workshop-based
-- 1h30-ish: exercices and class time for assignment
+2h-ish: presentations, workshop-based <br>
+1h30-ish: exercices and class time for assignment
 
 **Teaching methods, assessment methods,
-competencies, etc**
-
-[See ECTS table here](https://denhaagkabk-my.sharepoint.com/:x:/g/personal/f_girard-meunier_kabk_nl/EZyFrnFEOdFBtG2cfrBLhGYB4j_aEfZXs8XxJUmyKYhLog?e=mcim5P).
+competencies, etc**:  [See ECTS table here](https://denhaagkabk-my.sharepoint.com/:x:/g/personal/f_girard-meunier_kabk_nl/EZyFrnFEOdFBtG2cfrBLhGYB4j_aEfZXs8XxJUmyKYhLog?e=mcim5P).
 
 ## Contact hours
 
