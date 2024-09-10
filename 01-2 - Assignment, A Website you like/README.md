@@ -68,7 +68,7 @@ Places to find websites:
 - [Slow web (are.na channel)](https://www.are.na/morgan-sutherland/slow-web)
 - [Text Only Websites (are.na channel)](https://www.are.na/elliott-cost/text-only-websites)
 - [Prof Dr. Style (Olia Lialina](http://contemporary-home-computing.org/prof-dr-style/)
-- [Web Design Mususeum](https://www.webdesignmuseum.org/gallery)
+- [Web Design Museum](https://www.webdesignmuseum.org/gallery)
 
 
 ## Word Bank
