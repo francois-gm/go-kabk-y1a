@@ -30,7 +30,6 @@ Keywords:
 
 | Class | Student |
 | -------- | --------------------- |
-
 | September 16 (class 2) | Lucile |
 | September 16 (class 2) | Sam |
 | September 23 (class 3) | Matilde |
