@@ -15,7 +15,7 @@ _The 7 layers of the Open Systems Interconnection (OSI) model, a model for syste
 
 Programming languages each operate within different abstraction layers. In the case of this course, we’ll touch mostly on web programming. This type of ‘high level programming’ language depends on the web browser that decodes the program, itself running (and programmed) within an operating system, itself programmed to run through unified hardware elements, which themselves run via embedded small programs. These hardwares run on communication networks and electric grids. 
 
-![High level vs. low level programming](high-level-vs-low-level)
+![High level vs. low level programming](high-level-vs-low-level.jpg)
 
 _High level programming vs. low level programming_
 
