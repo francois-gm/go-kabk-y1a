@@ -1,7 +1,7 @@
-_Coding Y1_
-_(inter)dependencies_
-
 # Prelude
+
+_Coding Y1 @ KABK_
+_(inter)dependencies_
 
 For this semester, I’d propose we start by extrapolating ourselves from the technicalities of ‘coding’ and have a look at our surroundings. 
 
@@ -9,13 +9,13 @@ Although I’m not a fan of the saying that ‘code is every­where’ or ‘eve
 
 I’d like to think about how elements tend to sit on other elements, that every piece of the puzzle that fulfills a function depends on another piece that fulfills another function and so on and so on. 
 
-[image:]
+![OSI layers](osi-layers.jpg)
 
 _The 7 layers of the Open Systems Interconnection (OSI) model, a model for systems interconnection._
 
 Programming languages each operate within different abstraction layers. In the case of this course, we’ll touch mostly on web programming. This type of ‘high level programming’ language depends on the web browser that decodes the program, itself running (and programmed) within an operating system, itself programmed to run through unified hardware elements, which themselves run via embedded small programs. These hardwares run on communication networks and electric grids. 
 
-[image:]
+![High level vs. low level programming](high-level-vs-low-level)
 
 _High level programming vs. low level programming_
 
