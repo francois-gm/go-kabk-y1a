@@ -4,7 +4,7 @@
 
 ## Assignment
 
-Every week, 2–3 students will present us with a website.
+Every week, 2 students will present us with a website.
 
 Think about… 
 
@@ -15,7 +15,7 @@ Think about…
 - What do you think of the visual elements of the website, how do they contribute to the navigation experience?
 - Ultimately, did you get what you ‘wanted’ from that website?
 
-Keywords:
+Tell us about (keywords):
 
 - Appearance
 - Movement
@@ -23,6 +23,8 @@ Keywords:
 - Navigation
 - Functionality (does it do what it should)
 - Accessibility
+
+Duration of the presentation: **around 2 minutes** per person.
 
 (see word bank below)
 
