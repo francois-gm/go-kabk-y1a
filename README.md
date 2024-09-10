@@ -14,31 +14,29 @@ In addition to in-class exercises, you will have 3-4 short assignments, each to 
 
 ## Small presentation assignment
 
-[A website you like](https://github.com/francois-gm/go-kabk-y1a/tree/main/01-2%20-%20Assignment%2C%20A%20Website%20I%20Like)
+*At the beginning of each class, 2 students will make a short presentation about a website they like, and tell us a bit more about it. I will also do the same.*
 
-At the beginning of each class, 2-3 students will make 
-a short presentation about a website they like, and tell us a bit more about it. I will also do the same.
+[A website you like, read more on the assignment page](https://github.com/francois-gm/go-kabk-y1a/tree/main/01-2%20-%20Assignment%2C%20A%20Website%20I%20Like)
 
-Time schedule
+## Time schedule
 
-Every monday, 13h30-17h30
-PD.205
+Every monday, 13h30-17h30, PD.205
 
-First 15 minutes: web culture
-Small presentation assignment, I present and you present
+- First 15 minutes: web culture
+- Small presentation assignment, I present and you present
 
-2h-ish: presentations, workshop-based
-1h30-ish: exercices and class time for assignment
+- 2h-ish: presentations, workshop-based
+- 1h30-ish: exercices and class time for assignment
 
-Teaching methods, assessment methods,
-competencies, etc
+**Teaching methods, assessment methods,
+competencies, etc**
 
-See ECTS table (attached)
+[See ECTS table here](https://denhaagkabk-my.sharepoint.com/:x:/g/personal/f_girard-meunier_kabk_nl/EZyFrnFEOdFBtG2cfrBLhGYB4j_aEfZXs8XxJUmyKYhLog?e=mcim5P).
 
-Contact hours
+## Contact hours
 
 I try to reply to your emails with flexibility, but sometimes it might take a few days (esp. if you email me during mid-week as our class is on Monday)
 
-Available by email via: f.girard-meunier@kabk.nl
-And also on Teams
+- Available by email via: f.girard-meunier@kabk.nl
+- And also on Teams
 
