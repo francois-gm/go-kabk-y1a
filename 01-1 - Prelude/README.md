@@ -90,6 +90,7 @@ In code, there is rarely a finished product. Only iterations of something that l
 truly self-contained. Code depends on other code, depends on other technological layers, sits on layers 
 on layers on layers.
 
+<br>
 
 2024/09/09
 François Girard-Meunier
