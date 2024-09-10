@@ -67,7 +67,7 @@ Places to find websites:
 - [Internet Explorers (are.na channel)](https://www.are.na/gemma-copeland/internet-explorers)
 - [Slow web (are.na channel)](https://www.are.na/morgan-sutherland/slow-web)
 - [Text Only Websites (are.na channel)](https://www.are.na/elliott-cost/text-only-websites)
-- [Prof Dr. Style (Olia Lialina](http://contemporary-home-computing.org/prof-dr-style/)
+- [Prof Dr. Style (Olia Lialina)](http://contemporary-home-computing.org/prof-dr-style/)
 - [Web Design Museum](https://www.webdesignmuseum.org/gallery)
 
 
