@@ -31,7 +31,7 @@ Small presentation assignment, I present and you present
 **Teaching methods, assessment methods,
 competencies, etc**:  [See ECTS table here](https://denhaagkabk-my.sharepoint.com/:x:/g/personal/f_girard-meunier_kabk_nl/EZyFrnFEOdFBtG2cfrBLhGYB4j_aEfZXs8XxJUmyKYhLog?e=mcim5P).
 
-<img src="improvement.jpg" width="300px">
+<img src="improvement.jpg" width="350px">
 
 ## Contact hours
 
