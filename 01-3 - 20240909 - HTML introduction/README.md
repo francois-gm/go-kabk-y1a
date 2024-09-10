@@ -6,8 +6,16 @@ Presentation: An overview of HTML
 
 ## Exercice
 
-XML ‘in-situ snapshot’ coding exercice (1h)
+**XML ‘in-situ snapshot’ coding exercice (1h)** <br>
 (take a picture of the ‘coded snapshot’ for reference)
+
+Venture into the Hortus and find a location you want to document. Think about what you see but also what you hear and smell. 
+
+Use the logic of XML languages:
+
+- Tags that open and close
+- Tags that contain other tags
+- The use of attributes that giving specifications on the tags.
 
 - [List of XML languagesl](https://en.wikipedia.org/wiki/List_of_XML_markup_languages)
 - [BeerXMLl](https://beerxml.com/recipes.xml)
