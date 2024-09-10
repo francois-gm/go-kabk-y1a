@@ -6,7 +6,7 @@
 
 Every week, 2 students will present us with a website.
 
-Think about… 
+**Think about…**
 
 - How did you end up on that website?
 - What makes this website worthy of your presentation?
@@ -15,7 +15,7 @@ Think about…
 - What do you think of the visual elements of the website, how do they contribute to the navigation experience?
 - Ultimately, did you get what you ‘wanted’ from that website?
 
-Tell us about (keywords):
+**Tell us about (keywords):**
 
 - Appearance
 - Movement
