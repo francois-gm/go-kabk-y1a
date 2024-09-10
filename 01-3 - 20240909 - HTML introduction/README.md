@@ -1,4 +1,4 @@
-# HTML introduction
+# HTML introduction (20240909, at Hortus Botanicus Leiden)
 
 Presentation: An overview of HTML
 
@@ -6,7 +6,8 @@ Presentation: An overview of HTML
 
 ## Exercice
 
-**XML ‘in-situ snapshot’ coding exercice (1h)** <br>
+**XML ‘in-situ snapshot’ coding exercice (1h)**
+
 (take a picture of the ‘coded snapshot’ for reference)
 
 Venture into the Hortus and find a location you want to document. Think about what you see but also what you hear and smell. 
