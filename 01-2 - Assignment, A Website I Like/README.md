@@ -49,7 +49,7 @@ Keywords:
 | November 18 (class 10) | Alexandr |
 | November 25 (class 11) | Myrto |
 | November 25 (class 11) | Andrei |
-| December 2 (class 12) | Ohla |
+| December 2 (class 12) | Olya |
 | December 2 (class 12) | Mani |
 | December 9 (class 13) | Isaac |
 | December 9 (class 13) | Amy |
