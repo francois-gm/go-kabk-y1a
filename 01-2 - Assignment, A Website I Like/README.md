@@ -46,3 +46,62 @@ Places to find websites:
 
 ## Word Bank
 
+### Appearance
+
+- Big / small
+- Colourful / monochrome
+- Expanded / compressed
+- Hidden / hypervisible
+- Centered / sideways
+- Soft / hard
+- Liquid / solid
+- Warm / cold
+- Personal / apersonal
+- Vernacular / corporate
+- Smooth / cumbersome
+- Generous / clinical
+- Accumulated / selected / distiled
+
+### Movement
+
+- Quick / slow
+- Subtle / proheminent
+- Directional / adirectional
+- Linear / bouncy
+- Incremental / repetitive / once
+- Simple / excessive
+- Solicited / intrusive
+
+### Structure
+
+- Ordered / unordered
+- Chronology / deambulation
+- Tree (multiple levels) / all flat (one level)
+- Top-bottom / sideway
+- Indexed / unindexed
+- Categorized / uncategorized
+- Explicit (structure) / concealed (structure)
+
+### Navigation
+
+- A button / a toggle / a list of choices
+- From A to B / from any to any
+- From top to bottom / from sideways to sideways
+- Linear navigation / navigation through associations
+- Expanding and contracting apparatuses (like accordions)
+- A table of contents
+- A site map
+- A glossary / an index of terms / definitions
+- Navigational breadcrumbs
+- Sticky
+- Hyper-hyperlinks
+- Popups
+- A click, a tap, a mouseover, a mousedown, a combination of trigger events.
+- Stuff on scroll, stuff on resize, stuff on device flip.
+- Go to (...), back to (...), previous, next
+- Categories / categorizing / tags
+- Hamburgers
+- Place and time
+- Bars / stacks
+- Vertical scrolling / Horizontal scrolling
+- State of progress (you are here, you are at X%)
