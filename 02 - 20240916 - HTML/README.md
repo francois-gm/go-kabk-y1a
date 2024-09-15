@@ -1,40 +1,57 @@
 # Class 2, 2024/09/16
 
-## Intro
+## Intro (30min)
 
 - *A website you like* (Lucile, Sam, François)
 - Presentation of the *XML snapshots* exercice
 
-## HTML
+## Presentation 1 (30min)
 
-- Presentation: Install VS code + set up a document (and do’s and don’t)
-- Presentation: HTML (1h) + exercices
-- Presentation: how to use developer tool
+- Install VS code + set up a document (and do’s and don’t)
 
-## Exercices
-
-### a) Revisions
+### Exercice 1, *revisions* (30min)
 
 Each student gets the previous *XML snapshot* of another student.
 
+#### a) Retranscribe the code in an html file
+
+First, write the code in VS studio and save the file as `y1a-01-firstname.html` (see example file). Think about respecting indentation.
+
+Then save a **second version** with the name `y1a-01-firstname-revisedby-yourfirstname.html`.
+
+*So, if I would revise Lucile's code, it would be:*
+
+- `y1a-01-lucile.html`.
+- `y1a-01-lucile-revisedby-francois.html`.
+- 
+#### b) Do a revision of the code
+  
 You will review their code, and perform revisions on their code:
 
+##### Step 1:
+
 - Verify that the syntax of HTML/XML is respected:
-- - Tags **opened** and **closed**
-- - Writing syntaxically makes sense (plural groups and inside individual items)
-- - Formatting (attributes are formatted as `attribute="value"` with `="`, `value` and `"`, the way `<tag></tag>` is formatted, with closing tag having a `/` (slash).
+- - Tags **opened** and **closed**, `<tag></tag>` is formatted, with closing tag having a `/` (slash).
+- - Formatting of attributes: `attribute="value"` with `="`, `value` and `"`.
 - Make amendments to naming of tags if it can be made in a way that is clearer, *semantically*
-- Restructure code if it makes sense to you
-- All elements if it makes sense to you
-- What piece of information might be relevant but is not present? 
+- Restructure code if it makes sense to you (does the grouping makes sense)?
+- *What piece of information might be relevant but is not present?* **Add 2-3 elements or attributes** based on the pictures you think are worth being present.
 
+##### Step 2:
 
-### a) Revisions (20min)
+- Add some CSS 'inline' styling properties to your document.
+- Highlight your changes by wrapping them in `<span>` tags and adding a style="color:red;"` inline CSS attribute (replace the red by the color of your choice, but keep that color consistent).
 
+Example of CSS properties to play with:
+- Color: here and [here](https://www.w3schools.com/cssref/css_colors.php)
+- Underline:
+- Border:
 
-### b) Mapping the divs
--
+## Presentation 2
 
-- Revisions: each student gets the previous *XML snapshot*
-- We make a simple page with the images of our 'snapshots'
-- Snapshot revision
+- HTML (45min)
+- How to use developer tool (15min)
+
+### b) Mapping elements (20min)
+
+- Based on the updated code
