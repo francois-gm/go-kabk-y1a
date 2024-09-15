@@ -20,7 +20,7 @@ Each student gets the previous *XML snapshot* of another student.
 You will review their code, and perform revisions on their code:
 
 - Verify that the syntax of HTML/XML is respected:
-- - Tags open and close
+- - Tags **opened** and **closed**
 - - Writing syntaxically makes sense (plural groups and inside individual items)
 - - Formatting (attributes are formatted as attribute**="**value**"**, the way <tag><**/**tag> is formatted
 - Make amendments to naming of tags if it can be made in a way that is clearer, *semantically*
