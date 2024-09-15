@@ -58,7 +58,7 @@ Example of CSS properties to play with:
 
 - Add these to the Teams folder
 
-## Tutorial 2
+## Tutorial 2 (1h15)
 
 - HTML (1h)
 - Overview of possible HTML tags, [W3school, by category](https://www.w3schools.com/TAGS/ref_byfunc.asp), [W3School, semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
@@ -89,7 +89,7 @@ Look at the page, resize it, and look at how blocks behave. Can you see each HTM
 
 ## Exercise 2, Mapping elements (15min)
 
-Based on the updated code you've done on Exercise 1... 
+Based on the revised code you've made for *Exercise 1*... 
 
 - Draw a the structure of all elements as boxes on a piece of paper.
 - Annotate each box by their tag name.
