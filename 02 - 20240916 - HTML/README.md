@@ -22,7 +22,7 @@ You will review their code, and perform revisions on their code:
 - Verify that the syntax of HTML/XML is respected:
 - - Tags **opened** and **closed**
 - - Writing syntaxically makes sense (plural groups and inside individual items)
-- - Formatting (attributes are formatted as attribute**="**value**"**, the way <tag><**/**tag> is formatted
+- - Formatting (attributes are formatted as `attribute="value"` with `="`, `value` and `"`, the way `<tag></tag>` is formatted, with closing tag having a `/` (slash).
 - Make amendments to naming of tags if it can be made in a way that is clearer, *semantically*
 - Restructure code if it makes sense to you
 - All elements if it makes sense to you
