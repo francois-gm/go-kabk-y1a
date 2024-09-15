@@ -1,11 +1,11 @@
 # Class 2, 2024/09/16
-
+225
 ## Intro (30min)
 
 - *A website you like* (Lucile, Sam, François)
 - Round table, each present their *XML snapshots* exercice
 
-## Presentation 1 (15min)
+## Tutorial 1 (15min)
 
 Install VS code + set up a document (and do’s and don’t)
 
@@ -16,11 +16,11 @@ Shortcut for HTML template:
 
 - `Shift` + `1` and `Enter` to auto-populate HTML Doctype in HTML.
 
-## Exercice 1, *revisions* (30min)
+## Exercice 1, *revisions* (60min)
 
 Each student gets the previous *XML snapshot* of another student.
 
-### a) Retranscribe the code in an html file
+### a) Retranscribe the code in an html file (15min)
 
 First, write the code in VS studio and save the file as `y1a-01-firstname.html` (see example file). Think about respecting indentation.
 
@@ -31,7 +31,7 @@ Then save a **second version** with the name `y1a-01-firstname-revisedby-yourfir
 - `y1a-01-lucile.html`.
 - `y1a-01-lucile-revisedby-francois.html`.
   
-### b) Do a revision of the code
+### b) Do a revision of the code (30min)
   
 You will review their code, and perform revisions on their code:
 
@@ -54,16 +54,38 @@ Example of CSS properties to play with:
 - Text decoration, [on W3School](https://www.w3schools.com/cssref/pr_text_text-decoration.php), and on [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration)
 - Text shadow, [on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)
 
-## Presentation 2
+#### Round table presentation of the revisions (15min)
+
+- Add these to the Teams folder
+
+## Tutorial 2
 
 - HTML (1h)
-- Overview of possible HTML tags, [W3school 1, by category](https://www.w3schools.com/TAGS/ref_byfunc.asp), [W3School, semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- Overview of possible HTML tags, [W3school, by category](https://www.w3schools.com/TAGS/ref_byfunc.asp), [W3School, semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - - `<div>` and `<span>` vs. `<section>`, `<article>`, `<nav>`...
   - Paragraphs (`<p>`), headings (`<h1>`-`<h6>`), inline formatting (`<em>`, `<strong>`)
   - Hyperlinks (`<a>`), and its attributes
-  - `<summary` and `<details>`
+  - `<img>`, `<iframe>`, `<video>`, `<audio>`.
+  - `<figure>`, `<figcaption>`
+  - `<ul>`, `<ol>`, `<li>`
+  - `<summary>` and `<details>`
 - How to use developer tool (15min)
   - Google Chrome -> [Shift]+[Cmd]+[C], or `View -> Developer Tools` | Firefox -> [Alt]+[Cmd]+[I], or `Tools -> Browser tools -> Web development tools`.
+
+### Small developer tool exercice
+
+- Do 'command + shift + C' (the shortcut for accessing your browser's *developer tools*)
+- Create a new stylesheet rule from your browser inspector (click on the '+' button in Chrome):
+
+```
+// '*' means 'every elements'
+
+* {
+ outline: 1px solid #F00;
+}
+```
+
+Look at the page, resize it, and look at how blocks behave. Can you see each HTML tags?
 
 ## Exercise 2, Mapping elements (15min)
 
