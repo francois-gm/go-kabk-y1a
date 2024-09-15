@@ -5,13 +5,16 @@
 - *A website you like* (Lucile, Sam, François)
 - Round table, each present their *XML snapshots* exercice
 
-## Presentation 1 (30min)
+## Presentation 1 (15min)
 
-- Install VS code + set up a document (and do’s and don’t)
+Install VS code + set up a document (and do’s and don’t)
 
-Download and install: https://code.visualstudio.com
+- Download and install: https://code.visualstudio.com <br>
+- Set `word wrap` option on by going to `view` -> `word wrap`.
 
-Set `word wrap` option on by going to `view` -> `word wrap`.
+Shortcut for HTML template:
+
+- `Shift` + `1` and `Enter` to auto-populate HTML Doctype in HTML.
 
 ### Exercice 1, *revisions* (30min)
 
