@@ -9,6 +9,10 @@
 
 - Install VS code + set up a document (and do’s and don’t)
 
+Download and install: https://code.visualstudio.com
+
+Set `word wrap` option on by going to `view` -> `word wrap`.
+
 ### Exercice 1, *revisions* (30min)
 
 Each student gets the previous *XML snapshot* of another student.
