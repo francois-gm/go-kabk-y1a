@@ -1,5 +1,5 @@
 # Class 2, 2024/09/16
-225
+
 ## Intro (30min)
 
 - *A website you like* (Lucile, Sam, François)
