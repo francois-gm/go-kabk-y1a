@@ -3,7 +3,7 @@
 ## Intro (30min)
 
 - *A website you like* (Lucile, Sam, François)
-- Presentation of the *XML snapshots* exercice
+- Round table, each present their *XML snapshots* exercice
 
 ## Presentation 1 (30min)
 
@@ -43,7 +43,7 @@ You will review their code, and perform revisions on their code:
 - Highlight your changes by wrapping them in `<span>` tags and adding a style="color:red;"` inline CSS attribute (replace the red by the color of your choice, but keep that color consistent).
 
 Example of CSS properties to play with:
-- Color: here and [here](https://www.w3schools.com/cssref/css_colors.php)
+- Color: [CSS color property](https://www.w3schools.com/cssref/pr_text_color.php), [CSS background-color property](https://www.w3schools.com/cssref/pr_text_color.php) and [possible CSS color values](https://www.w3schools.com/cssref/css_colors.php)
 - Underline:
 - Border:
 
