@@ -59,10 +59,11 @@ Example of CSS properties to play with:
 - HTML (1h)
 - Overview of possible HTML tags, [W3school 1, by category](https://www.w3schools.com/TAGS/ref_byfunc.asp), [W3School, semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - - `<div>` and `<span>` vs. `<section>`, `<article>`, `<nav>`...
-  - Paragraphs (`p`), headings (`h1`-`h6`), inline formatting (`<em>`, `<strong>`)
-  - Hyperlinks (`a`), and its attributes
+  - Paragraphs (`<p>`), headings (`<h1>`-`<h6>`), inline formatting (`<em>`, `<strong>`)
+  - Hyperlinks (`<a>`), and its attributes
   - `<summary` and `<details>`
 - How to use developer tool (15min)
+  - Google Chrome -> [Shift]+[Cmd]+[C], or `View -> Developer Tools` | Firefox -> [Alt]+[Cmd]+[I], or `Tools -> Browser tools -> Web development tools`.
 
 ## Exercise 2, Mapping elements (15min)
 
