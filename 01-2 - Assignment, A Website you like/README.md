@@ -13,7 +13,7 @@ Every week, 2 students will present us with a website.
 - Does it look ‘special’, does it look ‘normal’, if so is it a good thing? Why?
 - How do you navigate in that website? How do you find your way? What helps you finding your way or not?
 - What do you think of the visual elements of the website, how do they contribute to the navigation experience?
-- Ultimately, did you get what you ‘wanted’ from that website?
+- Ultimately, did you get what you ‘wanted’ from that website? Or did it make you think? Or did you learn something? Or was it a positive experience?
 
 **Tell us about (keywords):**
 
