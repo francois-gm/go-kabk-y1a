@@ -23,7 +23,7 @@ Then save a **second version** with the name `y1a-01-firstname-revisedby-yourfir
 
 - `y1a-01-lucile.html`.
 - `y1a-01-lucile-revisedby-francois.html`.
-- 
+  
 #### b) Do a revision of the code
   
 You will review their code, and perform revisions on their code:
@@ -33,7 +33,7 @@ You will review their code, and perform revisions on their code:
 - Verify that the syntax of HTML/XML is respected:
 - - Tags **opened** and **closed**, `<tag></tag>` is formatted, with closing tag having a `/` (slash).
 - - Formatting of attributes: `attribute="value"` with `="`, `value` and `"`.
-- Make amendments to naming of tags if it can be made in a way that is clearer, *semantically*
+- Make amendments to naming of tags if it can be made in a way that is clearer?
 - Restructure code if it makes sense to you (does the grouping makes sense)?
 - *What piece of information might be relevant but is not present?* **Add 2-3 elements or attributes** based on the pictures you think are worth being present.
 
@@ -43,9 +43,9 @@ You will review their code, and perform revisions on their code:
 - Highlight your changes by wrapping them in `<span>` tags and adding a style="color:red;"` inline CSS attribute (replace the red by the color of your choice, but keep that color consistent).
 
 Example of CSS properties to play with:
-- Color: [CSS color property](https://www.w3schools.com/cssref/pr_text_color.php), [CSS background-color property](https://www.w3schools.com/cssref/pr_text_color.php) and [possible CSS color values](https://www.w3schools.com/cssref/css_colors.php)
-- Underline:
-- Border:
+- Color: [CSS color property](https://www.w3schools.com/cssref/pr_text_color.php), [CSS background-color property](https://www.w3schools.com/cssref/pr_background-color.php) and [possible CSS color values](https://www.w3schools.com/cssref/css_colors.php)
+- Text decoration, [on W3School](https://www.w3schools.com/cssref/pr_text_text-decoration.php), and on [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration)
+- Text shadow, [on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)
 
 ## Presentation 2
 
