@@ -47,7 +47,7 @@ You will review their code, and perform revisions on their code:
 #### Step 2:
 
 - Highlight your changes by wrapping them in `<span>` tags and adding a style="color:red;"` inline CSS attribute (replace the red by the color of your choice, but keep that color consistent).
-- Add some general CSS 'inline' styling properties to your document and the previous document.
+- Add some general CSS 'inline' styling properties to both documents.
 
 Example of CSS properties to play with:
 - Color: [CSS color property](https://www.w3schools.com/cssref/pr_text_color.php), [CSS background-color property](https://www.w3schools.com/cssref/pr_background-color.php) and [possible CSS color values](https://www.w3schools.com/cssref/css_colors.php)
