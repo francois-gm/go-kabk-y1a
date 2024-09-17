@@ -14,6 +14,7 @@ Install VS code + set up a document (and do’s and don’t)
 
 Shortcut for HTML template:
 
+- When creating a new document, either select `HTML`, or if creating a new 'text file', then click on `choose language` and select (by typing) `html`.
 - `Shift` + `1` and `Enter` to auto-populate HTML Doctype in HTML.
 
 ## Exercice 1, *revisions* (60min)
