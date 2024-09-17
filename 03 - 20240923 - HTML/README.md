@@ -7,3 +7,5 @@
 ## CSS
 
 - TBA
+
+- Presentation assignment 1
