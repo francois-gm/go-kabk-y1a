@@ -7,9 +7,9 @@
 ## Recap
 
 - Name an example of a HTML `tag`?
-- How would you define, in your own words, what does at HTML `tag` does?
+- How would you define, in your own words, what a HTML `tag` does?
 - Name an example of a HTML `attribute`?
-- How would you define, in your own words, what does at HTML `attribute` does?
+- How would you define, in your own words, what a HTML `attribute` does?
 - In an HTML document, what goes inside of the `<head>` tag?
 - In an HTML document, what goes inside of the `<body>` tag?
 
@@ -20,16 +20,24 @@
 CSS stands for **C**ascade **S**tyle **S**heet.
 
 1. It behaves in a **cascade**.
-
-But what does that mean? It means that:
-
-- You at first apply style rules that are general: they apply to all your elements, and are not very specific. As an example, all paragraphs have a blue color.
-- The you apply style rules that are more specific. As an example, the paragraph with a red class has a red color. All other paragraphs will keep their blue color.
-- Instead of naming every paragraph of your document and individually attributing them colors, you would say:
-All paragraphs have a blue color, paragraphs with the red class has a red color.
-
 2. It **styles** the HTML elements (it's like painting the HTML blocks).
 3. It is a **sheet**.
+   
+But what does **behaves in a cascade** means? It means that:
+
+- You at first apply style rules that are general: they apply to all your elements, and are not very specific. As an example, **all paragraphs** have a **blue color**.
+- The you apply style rules that are more specific. As an example, **the paragraph with a red class** has a **red color**. All other paragraphs will keep their blue color.
+- In summary: All paragraphs have a blue color, paragraphs with the red class has a red color.
+
+```
+p{
+  color:blue;
+}
+
+p.red{
+  color:red;
+}
+```
 
 ### Principles of CSS:
 
@@ -42,7 +50,7 @@ All paragraphs have a blue color, paragraphs with the red class has a red color.
 
 CSS selectors are used to “find” (or select) the HTML elements you want to style.
 
-##### Simple selectors
+#### Simple selectors
 
 - The **element** selector
   - In HTML: `<p>`
@@ -59,7 +67,7 @@ CSS selectors are used to “find” (or select) the HTML elements you want to s
   - More specific than a class selector, so even more CSS 'cascade points'.
   - An id is unique, meaning you can only use each id once per html document.
 
-##### Combinator selectors
+#### Combinator selectors
 
 Select elements based on a specific relationship between them.
 
@@ -75,15 +83,17 @@ Example 2:
 - Applies to the first `<p>` element inside a `<div>` element with the class `my-class`
 - Again, more specific than simple selector, so even even more CSS cascade points. The more specific, the more points, the more 'deep' in the cascade, the more it has precedence over less specific CSS rules.
 
+In example 2, we also have a **pseudo-class** selector, the `:first-of-type` selector.
 
-- [CSS Diner](https://flukeout.github.io)
+> A CSS pseudo-class is a keyword added to a selector that specifies a special state of the selected element(s).
 
-Pseudo-class selectors (select elements based on a certain state)
-Pseudo-elements selectors (select and style a part of an element)
-Attribute selectors (select elements based on an attribute or attribute value)
+[Read more about pseudo-class selectors on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 
+**The more the combination is specific, the more it has 'cascade points' and the more it has precedence over other CSS rules**
 
-d
+#### A (fun) game to learn CSS selector and the *specificity/precedence*:
+
+[CSS Diner](https://flukeout.github.io)
 
 ###
 
