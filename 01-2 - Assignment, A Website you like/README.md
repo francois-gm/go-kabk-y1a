@@ -30,7 +30,7 @@ Duration of the presentation: **around 2 minutes** per person.
 
 ## Schedule
 
-| Class | Student |
+| Class | Student | Site |
 | -------- | --------------------- | --------------------- |
 | September 16 (class 2) | Lucile | https://theoverkill.nl |
 | September 16 (class 2) | Sam | https://julesjanssen.biz/ |
