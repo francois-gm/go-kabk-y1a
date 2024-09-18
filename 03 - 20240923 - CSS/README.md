@@ -35,8 +35,13 @@ your-project-folder
 
 You link your style.css and script.js files in your html document.
 
+For `style.css`:
+
 - For the `style.css` document, this should be inside the <head> of your html document.
 - `<link rel="stylesheet" href="assets/css/style.css">`
+
+For `script.js`:
+
 - For the `script.js` document, this should be at the end of your html document.
 - `<script src="assets/js/script.js"></script>`
 
