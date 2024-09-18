@@ -89,9 +89,14 @@ In example 2, we also have a **pseudo-class** selector, the `:first-of-type` sel
 
 [Read more about pseudo-class selectors on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 
-**The more the combination is specific, the more it has 'cascade points' and the more it has precedence over other CSS rules**
+In short: The more the combination is specific, the more it has 'cascade points' and the more it has precedence over other CSS rules.
 
-### Practice your CSS selectors with [CSS Diner](https://flukeout.github.io)
+#### Practice your CSS selectors!
+
+... with [CSS Diner](https://flukeout.github.io)
+
+### CSS properties and value
+
 
 ###
 
