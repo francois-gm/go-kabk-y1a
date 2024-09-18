@@ -39,14 +39,14 @@ p.red{
 }
 ```
 
-### Principles of CSS:
+## Principles of CSS:
 
 - Precedence and priority (the cascade)
 - Selectors types and granularity in selecting.
 - The CSS **property-value** pair, as an example `color: blue;` where `color` is the property and `blue` is the value.
 - Pseudo classes (`a:hover`) apply to specific states (when the mouse hovers the `<a>` element, this CSS rules applies).
 
-#### Selectors
+### Selectors
 
 CSS selectors are used to “find” (or select) the HTML elements you want to style.
 
@@ -74,13 +74,13 @@ Select elements based on a specific relationship between them.
 Example 1:
 
 - `p.my-class a.my-other-class`
-- Applies to `<a>` elements with the class `my-other-class` inside `<p>` elements with the class `my-class`
+- Applies to `<a>` elements with the class `"my-other-class"` inside `<p>` elements with the class `"my-class"`
 - More specific than simple selector, so even even more CSS cascade points. The more specific, the more points, the more 'deep' in the cascade, the more it has precedence over less specific CSS rules.
 
 Example 2:
 
 - `div.my-class p:first-of-type`
-- Applies to the first `<p>` element inside a `<div>` element with the class `my-class`
+- Applies to the first `<p>` element inside a `<div>` element with the class `"my-class"`
 - Again, more specific than simple selector, so even even more CSS cascade points. The more specific, the more points, the more 'deep' in the cascade, the more it has precedence over less specific CSS rules.
 
 In example 2, we also have a **pseudo-class** selector, the `:first-of-type` selector.
@@ -91,12 +91,22 @@ In example 2, we also have a **pseudo-class** selector, the `:first-of-type` sel
 
 In short: The more the combination is specific, the more it has 'cascade points' and the more it has precedence over other CSS rules.
 
-#### Practice your CSS selectors!
+## Read more
 
-... with [CSS Diner](https://flukeout.github.io)
+- [All CSS selectors on W3school](https://www.w3schools.com/cssref/css_selectors.php)
+- [CSS selectors on web.dev](https://web.dev/learn/css/selectors?hl=en)
+- [More about how specificity gets calculated](https://webdesign.tutsplus.com/what-is-css-specificity--cms-34141t)
+- Practice your selectors by [playing the CSS Diner](https://flukeout.github.io) game!
+- ... or play [this other game](https://toolness.github.io/css-selector-game/)
+  
+## CSS *properties* and *values*
 
-### CSS properties and value
+*A CSS property determines an HTML element's style or behavior. Examples include font style, transform, border, color, and margin.*
 
+- [CSS properties almanac on CSS tricks.com](https://css-tricks.com/almanac/properties/)
+- [Basic CSS properties on simmons.edu](http://web.simmons.edu/~grabiner/comm244/weekthree/css-basic-properties.html))
+- [All CSS properties on W3school](https://www.w3schools.com/cssref/index.php)
+- [CSS tutorial W3school](https://www.w3schools.com/css/default.asp)
 
 ###
 
