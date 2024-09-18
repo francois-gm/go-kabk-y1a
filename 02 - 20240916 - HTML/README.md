@@ -87,12 +87,3 @@ Example of CSS properties to play with:
 ```
 
 Look at the page, resize it, and look at how blocks behave. Can you see each HTML tags?
-
-## Exercise 2, Mapping elements (15min)
-
-Based on the revised code you've made for *Exercise 1*... 
-
-- Draw a the structure of all elements as boxes on a piece of paper.
-- Annotate each box by their tag name.
-- Take a picture and/or scan this
-- Send it to me.
