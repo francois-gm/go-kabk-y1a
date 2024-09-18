@@ -91,9 +91,7 @@ In example 2, we also have a **pseudo-class** selector, the `:first-of-type` sel
 
 **The more the combination is specific, the more it has 'cascade points' and the more it has precedence over other CSS rules**
 
-#### A (fun) game to learn CSS selector and the *specificity/precedence*:
-
-[CSS Diner](https://flukeout.github.io)
+### Practice your CSS selectors with [CSS Diner](https://flukeout.github.io)
 
 ###
 
