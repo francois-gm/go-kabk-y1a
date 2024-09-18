@@ -6,8 +6,6 @@
 
 ## Recap
 
-What we saw in the two first weeks.
-
 - Name an example of a HTML `tag`?
 - How would you define, in your own words, what does at HTML `tag` does?
 - Name an example of a HTML `attribute`?
@@ -21,7 +19,7 @@ What we saw in the two first weeks.
 
 CSS stands for **C**ascade **S**tyle **S**heet.
 
-1. It behaves in a *cascade*.
+1. It behaves in a **cascade**.
 
 But what does that mean? It means that:
 
@@ -30,15 +28,15 @@ But what does that mean? It means that:
 - Instead of naming every paragraph of your document and individually attributing them colors, you would say:
 All paragraphs have a blue color, paragraphs with the red class has a red color.
 
-2. It *styles* the HTML elements (it's like painting the HTML blocks).
-3. It is a *sheet*.
+2. It **styles** the HTML elements (it's like painting the HTML blocks).
+3. It is a **sheet**.
 
 ### Principles of CSS:
 
 - Precedence and priority (the cascade)
 - Selectors types and granularity in selecting.
-- The CSS property-value pair, as an example color:blue; where color is the property and blue is the value.
-- Pseudo classes (a:hover)
+- The CSS **property-value** pair, as an example `color: blue;` where `color` is the property and `blue` is the value.
+- Pseudo classes (`a:hover`) apply to specific states (when the mouse hovers the `<a>` element, this CSS rules applies).
 
 #### Selectors
 
