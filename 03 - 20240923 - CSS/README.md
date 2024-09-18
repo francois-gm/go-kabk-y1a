@@ -95,10 +95,10 @@ In short: The more the combination is specific, the more it has 'cascade points'
 
 <img src="css-specificity.svg" width="500px">
 
-- Inline CSS = 1000 points
-- Id = 100 points
-- Class, pseudo-class, attribute = 10 points each
-- Element, pseudo-element, 1 point each
+- Inline CSS = 1-0-0-0
+- Id = 0-1-0-0 (added for each in a matching selector)
+- Class, pseudo-class, attribute = 0-0-1-0 (added for each in a matching selector)
+- Element, pseudo-element, 0-0-0-1 (added for each in a matching selector)
 
 ## Read more
 
