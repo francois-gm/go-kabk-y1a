@@ -51,11 +51,11 @@ For `script.js`:
 
 CSS stands for **C**ascade **S**tyle **S**heet.
 
-1. It behaves in a **cascade**.
+1. It behaves like a **cascade**.
 2. It **styles** the HTML elements (it's like painting the HTML blocks).
 3. It is a **sheet**.
    
-But what does **behaves in a cascade** means? It means that:
+But what does **behaves like a cascade** means? It means that:
 
 - You at first apply style rules that are general: they apply to all your elements, and are not very specific. As an example, **all paragraphs** have a **blue color**.
 - The you apply style rules that are more specific. As an example, **the paragraph with a red class** has a **red color**. All other paragraphs will keep their blue color.
