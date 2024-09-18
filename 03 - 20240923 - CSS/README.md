@@ -15,9 +15,11 @@
 
 ## A clean working document
 
-- Your work in a folder
-- Your html file is named index.html
-- Inside your working folder, you have a folder called assets, in that folder, you have a folder for your CSS, and one for your Javascript.
+- Your project has its project own folder
+- Inside your project folder, you have an html file named `index.html`
+- Inside your project folder, you have a subfolder called `assets`, and in that folder, you have a subfolder for your `CSS`, and one for your `Javascript`.
+- Inside your `css` subfolder you have your `style.css` file
+- Inside your `js` subfolder you have your `script.js` file
 
 ```
 your-project-folder
