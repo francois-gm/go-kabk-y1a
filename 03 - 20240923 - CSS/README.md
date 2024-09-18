@@ -46,6 +46,8 @@ p.red{
 - The CSS **property-value** pair, as an example `color: blue;` where `color` is the property and `blue` is the value.
 - Pseudo classes (`a:hover`) apply to specific states (when the mouse hovers the `<a>` element, this CSS rules applies).
 
+<img src="css-terminology.jpg" width="500px">
+
 ### Selectors
 
 CSS selectors are used to “find” (or select) the HTML elements you want to style.
@@ -90,6 +92,8 @@ In example 2, we also have a **pseudo-class** selector, the `:first-of-type` sel
 [Read more about pseudo-class selectors on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 
 In short: The more the combination is specific, the more it has 'cascade points' and the more it has precedence over other CSS rules.
+
+<img src="css-specificity.svg" width="500px">
 
 ## Read more
 
