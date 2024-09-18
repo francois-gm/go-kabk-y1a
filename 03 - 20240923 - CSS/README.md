@@ -13,6 +13,24 @@
 - In an HTML document, what goes inside of the `<head>` tag?
 - In an HTML document, what goes inside of the `<body>` tag?
 
+## A clean working document
+
+- Your work in a folder
+- Your html file is named index.html
+- Inside your working folder, you have a folder called assets, in that folder, you have a folder for your CSS, and one for your Javascript.
+
+```
+your-project-folder
+
+   ├── index.html
+   ├── content
+   └── assets
+       ├── css
+       │   └── style.css
+       └── js
+           └── script.js
+```
+
 ## CSS
 
 > What is CSS?
