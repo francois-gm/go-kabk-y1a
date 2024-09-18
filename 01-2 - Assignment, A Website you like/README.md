@@ -34,27 +34,27 @@ Duration of the presentation: **around 2 minutes** per person.
 | -------- | --------------------- | --------------------- |
 | September 16 (class 2) | Lucile | https://theoverkill.nl |
 | September 16 (class 2) | Sam | https://julesjanssen.biz/ |
-| September 23 (class 3) | Matilde | - |
-| September 23 (class 3) | Jeungin | - |
-| September 30 (class 4) | Nell | - |
-| September 30 (class 4) | Khulan | - |
-| October 7 (class 5) | No presentation | - |
-| October 14 (class 6) | Timmy | - |
-| October 14 (class 6) | Fedja | - |
-| October 21 (class 7) | Duru | - |
-| October 21 (class 7) | Yoonjin | - |
-| November 4 (class 8) | Kaja | - |
-| November 4 (class 8) | Max | - |
-| November 11 (class 9) | Yalizah | - |
-| November 11 (class 9) | Maria | - |
-| November 18 (class 10) | Femke | - |
-| November 18 (class 10) | Alexandr | - |
-| November 25 (class 11) | Myrto | - |
-| November 25 (class 11) | Andrei | - | - |
-| December 2 (class 12) | Olya | - |
-| December 2 (class 12) | Mani | - |
-| December 9 (class 13) | Isaac | - |
-| December 9 (class 13) | Amy | - |
+| September 23 (class 3) | Matilde | |
+| September 23 (class 3) | Jeungin | |
+| September 30 (class 4) | Nell | |
+| September 30 (class 4) | Khulan | |
+| October 7 (class 5) | No presentation | |
+| October 14 (class 6) | Timmy | |
+| October 14 (class 6) | Fedja | |
+| October 21 (class 7) | Duru | |
+| October 21 (class 7) | Yoonjin | |
+| November 4 (class 8) | Kaja | |
+| November 4 (class 8) | Max | |
+| November 11 (class 9) | Yalizah | |
+| November 11 (class 9) | Maria | |
+| November 18 (class 10) | Femke | |
+| November 18 (class 10) | Alexandr | |
+| November 25 (class 11) | Myrto | |
+| November 25 (class 11) | Andrei | |
+| December 2 (class 12) | Olya | |
+| December 2 (class 12) | Mani | |
+| December 9 (class 13) | Isaac | |
+| December 9 (class 13) | Amy | |
 
 
 ## Ressources list
