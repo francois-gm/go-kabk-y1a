@@ -5,7 +5,7 @@
 - *A website you like* (Lucile, Sam, François)
 - Round table, each present their *XML snapshots* exercice
 
-## Tutorial 1 [Visual Studio] (15min)
+## Tutorial: Visual Studio (15min)
 
 Install VS code + set up a document (and do’s and don’t)
 
@@ -59,7 +59,7 @@ Example of CSS properties to play with:
 
 - Add these to the Teams folder
 
-## Tutorial 2 [HTML] (1h15)
+## Tutorial: HTML (1h15)
 
 - HTML (1h)
 - Overview of possible HTML tags, [W3school, by category](https://www.w3schools.com/TAGS/ref_byfunc.asp), [W3School, semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
