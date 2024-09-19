@@ -15,8 +15,8 @@
 
 ## Presentation of exercise 1
 
-- Everybody present their analog code and their revision
-- Explain what has changed and why (there are no wrong anwsers)
+- Everybody present their analog code and their revision.
+- Explain what has changed and why (there are no wrong anwsers).
 
 ### Exercise 1b, Mapping elements (15min)
 
