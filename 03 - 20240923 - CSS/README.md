@@ -24,16 +24,16 @@ Based on the revised code you've made for *Exercise 1*...
 
 - Draw a the structure of all elements as boxes on a piece of paper.
 - Annotate each box by their tag name.
-- Take a picture and/or scan this
+- Take a picture and/or scan this.
 - Add it into the Teams folder corresponding to the right code.
   
 ## A clean working document
 
-- Your project has its project own folder
-- Inside your project folder, you have an html file named `index.html`
+- Your project has its project own folder.
+- Inside your project folder, you have an html file named `index.html`.
 - Inside your project folder, you have a subfolder called `assets`, and in that folder, you have a subfolder for your `CSS`, and one for your `Javascript`.
-- Inside your `css` subfolder you have your `style.css` file
-- Inside your `js` subfolder you have your `script.js` file
+- Inside your `css` subfolder you have your `style.css` file.
+- Inside your `js` subfolder you have your `script.js` file.
 
 ```
 your-project-folder
