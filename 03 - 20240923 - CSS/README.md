@@ -18,7 +18,7 @@
 - Everybody present their analog code and their revision.
 - Explain what has changed and why (there are no wrong anwsers).
 
-### Exercise 1b, mapping elements (15min)
+### Exercise 1c, mapping elements (15min)
 
 Based on the revised code you've made for *Exercise 1*... 
 
