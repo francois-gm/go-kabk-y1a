@@ -158,21 +158,20 @@ You are assigned with a *specificity* value.
 
 | Specificity | Name |
 | --------  | --------------------- |
-| 0-0-0-1 | |
-| 0-0-0-3 | |
-| 0-0-1-1 | |
-| 0-0-1-2 | |
-| 0-0-2-1 | |
-| 0-0-2-3 | |
-| 0-0-4-2 | |
-| 0-1-0-1 | |
-| 0-1-2-3 | |
-| 0-2-1-0 | |
-| 0-2-3-2 | |
-| 1-0-0-0 | |
+| 0-0-0-1 | Lucile, Matilde |
+| 0-0-0-3 | Sam, Jeungin |
+| 0-0-1-1 | Nell, Timmy |
+| 0-0-1-2 | Khulan, Fedja |
+| 0-0-2-1 | Duru, Kaja |
+| 0-0-2-3 | Yoonjin, Max |
+| 0-0-4-2 | Yalizah, Alexandr |
+| 0-1-0-1 | Femke, Olya |
+| 0-1-2-3 | Maria, Isaac |
+| 0-2-1-0 | Mani, Amy |
+| 0-2-3-2 | Myrto, Andrei |
 
-2. Exchange your CSS selector with someone. Now, write the HTML markup that corresponds to the selector you received
-3. To make sure that the selector targets the HTML element you wrote, give that selector some CSS properties/values (the `color` or `background-color` property as an example)
+2. Exchange your CSS selector with someone. Now, write the HTML markup that corresponds to the selector you received.
+3. To make sure that the selector targets the HTML element you wrote, give that selector some CSS properties/values (the `color` or `background-color` property as an example).
 
 ## Exercise 2, Mapping elements (15min)
 
