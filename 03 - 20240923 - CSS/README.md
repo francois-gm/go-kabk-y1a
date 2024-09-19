@@ -92,7 +92,7 @@ p.red{
 - The CSS **property-value** pair, as an example `color: blue;` where `color` is the property and `blue` is the value.
 - Pseudo classes (`a:hover`) apply to specific states (when the mouse hovers the `<a>` element, this CSS rules applies).
 
-<img src="css-terminology.jpg" width="500px">
+<img src="css-terminology.svg" width="500px">
 
 ### Selectors
 
