@@ -137,6 +137,7 @@ In short: The more the combination is specific, the more it has 'cascade points'
 - [All CSS selectors on W3school](https://www.w3schools.com/cssref/css_selectors.php)
 - [CSS selectors on web.dev](https://web.dev/learn/css/selectors?hl=en)
 - [More about how specificity gets calculated](https://webdesign.tutsplus.com/what-is-css-specificity--cms-34141t)
+- [Visual examples on specificity](https://www.w3schools.com/cssref/trysel.php?)
 - Practice your selectors by [playing the CSS Diner](https://flukeout.github.io) game!
 - ... or play [this other game](https://toolness.github.io/css-selector-game/)
   
@@ -149,7 +150,38 @@ In short: The more the combination is specific, the more it has 'cascade points'
 - [All CSS properties on W3school](https://www.w3schools.com/cssref/index.php)
 - [CSS tutorial W3school](https://www.w3schools.com/css/default.asp)
 
-###
+## Exercise 1, HTML/CSS selector based on specificity (30min)
+
+You are assigned with a *specificity* value.
+
+1. Write a CSS selector that matches with the assigned value.
+
+| Specificity | Name |
+| --------  | --------------------- |
+| 0-0-0-1 | |
+| 0-0-0-3 | |
+| 0-0-1-1 | |
+| 0-0-1-2 | |
+| 0-0-2-1 | |
+| 0-0-2-3 | |
+| 0-0-4-2 | |
+| 0-1-0-1 | |
+| 0-1-2-3 | |
+| 0-2-1-0 | |
+| 0-2-3-2 | |
+| 1-0-0-0 | |
+
+2. Exchange your CSS selector with someone. Now, write the HTML markup that corresponds to the selector you received
+3. To make sure that the selector targets the HTML element you wrote, give that selector some CSS properties/values (the `color` or `background-color` property as an example)
+
+## Exercise 2, Mapping elements (15min)
+
+Based on the revised code you've made for *Exercise 1*... 
+
+- Draw a the structure of all elements as boxes on a piece of paper.
+- Annotate each box by their tag name.
+- Take a picture and/or scan this
+- Send it to me.
 
 - Presentation assignment 1
 
