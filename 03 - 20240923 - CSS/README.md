@@ -15,16 +15,17 @@
 
 ## Presentation of exercise 1
 
-- In counter-clockwise order. And after...
+- Everybody present their analog code and their revision
+- Explain what has changed and why (there are no wrong anwsers)
 
-### Exercise 2, Mapping elements (15min)
+### Exercise 1b, Mapping elements (15min)
 
 Based on the revised code you've made for *Exercise 1*... 
 
 - Draw a the structure of all elements as boxes on a piece of paper.
 - Annotate each box by their tag name.
 - Take a picture and/or scan this
-- Send it to me.
+- Add it into the Teams folder corresponding to the right code.
   
 ## A clean working document
 
