@@ -17,7 +17,7 @@ Shortcut for HTML template:
 - When creating a new document, either select `HTML`, or if creating a new 'text file', then click on `choose language` and select (by typing) `html`.
 - `Shift` + `1` and `Enter` to auto-populate HTML Doctype in HTML.
 
-## Exercice 1, *revisions* (60min)
+## Exercice 1b, *revisions* (60min)
 
 Each student gets the previous *XML snapshot* of another student.
 
