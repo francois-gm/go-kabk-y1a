@@ -92,7 +92,7 @@ p.red{
 - The CSS **property-value** pair, as an example `color: blue;` where `color` is the property and `blue` is the value.
 - Pseudo classes (`a:hover`) apply to specific states (when the mouse hovers the `<a>` element, this CSS rules applies).
 
-<img src="css-terminology.svg" width="700px">
+<img src="css-terminology.svg" width="650px">
 
 ### Selectors
 
@@ -139,7 +139,7 @@ In example 2, we also have a **pseudo-class** selector, the `:first-of-type` sel
 
 In short: The more the combination is specific, the more it has 'cascade points' and the more it has precedence over other CSS rules.
 
-<img src="css-specificity.svg" width="500px">
+<img src="css-specificity.svg" width="550px">
 
 - Inline CSS = 1-0-0-0
 - Id = 0-1-0-0 (added for each in a matching selector)
