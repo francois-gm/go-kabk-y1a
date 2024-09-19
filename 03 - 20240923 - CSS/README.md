@@ -171,7 +171,7 @@ You are assigned with a *specificity* value.
 | 0-2-3-2 | Myrto, Andrei |
 
 2. Exchange your CSS selector with someone. Now, write the HTML markup that corresponds to the selector you received.
-3. To make sure that the selector targets the HTML element you wrote, give that selector some CSS properties/values (the `color` or `background-color` property as an example).
+3. To make sure that the selector targets the HTML element you wrote, give that selector some CSS properties/values (the `color` or `background-color` properties as examples).
 
 ## Exercise 2, Mapping elements (15min)
 
