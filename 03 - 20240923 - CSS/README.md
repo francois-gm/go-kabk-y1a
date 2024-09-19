@@ -1,10 +1,10 @@
 # Class 3, 2024/09/23
 
-## Intro
+## Intro (30min)
 
 - A website you like (Matilde, Jeungin, François)
 
-## Recap
+## Recap (15min)
 
 - Name an example of a HTML `tag`?
 - How would you define, in your own words, what a HTML `tag` does?
@@ -13,12 +13,12 @@
 - In an HTML document, what goes inside of the `<head>` tag?
 - In an HTML document, what goes inside of the `<body>` tag?
 
-### Presentation of exercise 1 (15 min)
+### Presentation of exercise 1 (15min)
 
 - Everybody present their analog code and their revision.
 - Explain what has changed and why (there are no wrong anwsers).
 
-### Exercise 1d, mapping elements (15min)
+### Exercise 2, mapping elements (15min)
 
 Based on the revised code you've made for *Exercise 1*... 
 
@@ -27,7 +27,7 @@ Based on the revised code you've made for *Exercise 1*...
 - Take a picture and/or scan this.
 - Add it into the Teams folder corresponding to the right code.
 
-## Tutorial: A clean working document
+## Tutorial: A clean working document (15min)
 
 - Your project has its project own folder.
 - Inside your project folder, you have an html file named `index.html`.
@@ -59,7 +59,7 @@ For `script.js`:
 - For the `script.js` document, this should be at the end of your html document.
 - `<script src="assets/js/script.js"></script>`
 
-## CSS
+## Tutorial: CSS (1h)
 
 > What is CSS?
 
@@ -164,12 +164,12 @@ In short: The more the combination is specific, the more it has 'cascade points'
 - [All CSS properties on W3school](https://www.w3schools.com/cssref/index.php)
 - [CSS tutorial W3school](https://www.w3schools.com/css/default.asp)
 
-## Exercise 2 (15min)
+## Exercise 3 (15min)
 
 - Complete levels 1-15 on [the CSS Diner](https://flukeout.github.io).
 - Then we will do them together.
 
-## Exercise 3, HTML/CSS selector based on specificity (30min)
+## Exercise 4, HTML/CSS selector based on specificity (30min)
 
 You are assigned with a *specificity* value.
 
