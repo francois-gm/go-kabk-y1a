@@ -164,7 +164,12 @@ In short: The more the combination is specific, the more it has 'cascade points'
 - [All CSS properties on W3school](https://www.w3schools.com/cssref/index.php)
 - [CSS tutorial W3school](https://www.w3schools.com/css/default.asp)
 
-## Exercise 1, HTML/CSS selector based on specificity (30min)
+## Exercise 2 (15min)
+
+- Complete levels 1-15 on [the CSS Diner](https://flukeout.github.io).
+- Then we will do them together.
+
+## Exercise 3, HTML/CSS selector based on specificity (30min)
 
 You are assigned with a *specificity* value.
 
@@ -187,7 +192,7 @@ You are assigned with a *specificity* value.
 2. Exchange your CSS selector with someone. Now, write the HTML markup that corresponds to the selector you received.
 3. To make sure that the selector targets the HTML element you wrote, give that selector some CSS properties/values (the `color` or `background-color` properties as examples).
 
-- Presentation assignment 1
+## Presentation assignment 1
 
-I do, we do, you do
+CSS property specialist
 
