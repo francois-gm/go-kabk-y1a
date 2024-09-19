@@ -13,6 +13,19 @@
 - In an HTML document, what goes inside of the `<head>` tag?
 - In an HTML document, what goes inside of the `<body>` tag?
 
+## Presentation of exercise 1 and revisions
+
+- In counter-clockwise order.
+
+## Exercise 2, Mapping elements (15min)
+
+Based on the revised code you've made for *Exercise 1*... 
+
+- Draw a the structure of all elements as boxes on a piece of paper.
+- Annotate each box by their tag name.
+- Take a picture and/or scan this
+- Send it to me.
+  
 ## A clean working document
 
 - Your project has its project own folder
@@ -172,15 +185,6 @@ You are assigned with a *specificity* value.
 
 2. Exchange your CSS selector with someone. Now, write the HTML markup that corresponds to the selector you received.
 3. To make sure that the selector targets the HTML element you wrote, give that selector some CSS properties/values (the `color` or `background-color` properties as examples).
-
-## Exercise 2, Mapping elements (15min)
-
-Based on the revised code you've made for *Exercise 1*... 
-
-- Draw a the structure of all elements as boxes on a piece of paper.
-- Annotate each box by their tag name.
-- Take a picture and/or scan this
-- Send it to me.
 
 - Presentation assignment 1
 
