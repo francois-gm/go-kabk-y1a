@@ -13,7 +13,7 @@
 - In an HTML document, what goes inside of the `<head>` tag?
 - In an HTML document, what goes inside of the `<body>` tag?
 
-## Presentation of exercise 1
+### Presentation of exercise 1
 
 - Everybody present their analog code and their revision.
 - Explain what has changed and why (there are no wrong anwsers).
@@ -26,8 +26,8 @@ Based on the revised code you've made for *Exercise 1*...
 - Annotate each box by their tag name.
 - Take a picture and/or scan this.
 - Add it into the Teams folder corresponding to the right code.
-  
-## A clean working document
+
+## Tutorial: A clean working document
 
 - Your project has its project own folder.
 - Inside your project folder, you have an html file named `index.html`.
