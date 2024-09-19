@@ -13,12 +13,12 @@
 - In an HTML document, what goes inside of the `<head>` tag?
 - In an HTML document, what goes inside of the `<body>` tag?
 
-### Presentation of exercise 1
+### Presentation of exercise 1 (15 min)
 
 - Everybody present their analog code and their revision.
 - Explain what has changed and why (there are no wrong anwsers).
 
-### Exercise 1c, mapping elements (15min)
+### Exercise 1d, mapping elements (15min)
 
 Based on the revised code you've made for *Exercise 1*... 
 
