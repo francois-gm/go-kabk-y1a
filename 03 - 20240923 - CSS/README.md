@@ -194,37 +194,51 @@ You are assigned with a *specificity* value.
 
 ## Presentation assignment 1
 
-CSS property specialist
+(Write the prompt text)
 
-| -------- | CSS property | Name |
+Schedule:
+
+- 23 September: introduction assignment
+- 30 September: 2h tutorial, 2h individual/small follow-up on the assignment
+- 07 October: individual/small group follow-up on the assignment
+- 14 October: delivery and presentation of the assignment in class
+
+| | CSS property | Name |
 | -------- | --------  | --------------------- |
-| Decoration  | --------  | --------------------- |
+| **Decoration**  | --------  | --------------------- |
 | 1 | CSS colors (`#hex`, `rgb`), `color`, `background-color` | _____ |
 | 2 | `opacity` | _____ |
 | 3 | `border` | _____ |
 | 4 | `filter` | _____ |
 | 5 | `box-shadow` | _____ |
-| Layout  | --------  | --------------------- |
+| **Layout** | | |
 | 6 | CSS units (`px`, `%`, `vw`, `vh`) | _____ |
 | 7 | `position` | _____ |
 | 8 | `display:block;`, `float` | _____ |
 | 9 | `display:flex;` | _____ |
 | 10 | `margin`, `padding` | _____ |
 | 11 | `z-index` | _____ |
-
-Typography
+| **Typography** | | |
 | 12 | `font` (`family`, `size`, `weight`) | _____ |
 | 13 | `text-align`, `letter-spacing` | _____ |
 | 14 | `line-height` | _____ |
 | 15 | `text-decoration` | _____ |
 | 16 | `letter-spacing` | _____ |
 | 17 | `text-shadow` | _____ |
+| **Functionality** | | |
+| 18 | `cursor` | _____ |
+| 19 | `@media` | _____ |
+| 20 | `transition` | _____ |
+| 21 | `transform` | _____ |
+| 22 | `overflow` | _____ |
 
-Functionality
-| 18 | cursor | _____ |
-| 19 | @media | _____ |
-| 20 | transition | _____ |
-| 21 | transform | _____ |
-| 22 | overflow | _____ |
+Some links to help you research your CSS property:
 
+- [CSS properties almanac on CSS tricks](https://css-tricks.com/almanac/properties/)
+- [CSS properties on w3school](https://www.w3schools.com/cssref/index.php)
+- [CSS colors on w3school](https://www.w3schools.com/cssref/css_colors_legal.php)
+- [Codepen examples with CSS](https://codepen.io/team/css-tricks/pens/popular)
+- [JSfiddle CSS layout](https://jsfiddle.net/vintharas/ybt6k2dw/)
+- [CSS learn layout, with float](https://learnlayout.com)
+- [CSS values and units on MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
 
