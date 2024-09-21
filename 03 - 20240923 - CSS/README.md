@@ -196,3 +196,35 @@ You are assigned with a *specificity* value.
 
 CSS property specialist
 
+| -------- | CSS property | Name |
+| -------- | --------  | --------------------- |
+| Decoration  | --------  | --------------------- |
+| 1 | CSS colors (`#hex`, `rgb`), `color`, `background-color` | _____ |
+| 2 | `opacity` | _____ |
+| 3 | `border` | _____ |
+| 4 | `filter` | _____ |
+| 5 | `box-shadow` | _____ |
+| Layout  | --------  | --------------------- |
+| 6 | CSS units (`px`, `%`, `vw`, `vh`) | _____ |
+| 7 | `position` | _____ |
+| 8 | `display:block;`, `float` | _____ |
+| 9 | `display:flex;` | _____ |
+| 10 | `margin`, `padding` | _____ |
+| 11 | `z-index` | _____ |
+
+Typography
+| 12 | `font` (`family`, `size`, `weight`) | _____ |
+| 13 | `text-align`, `letter-spacing` | _____ |
+| 14 | `line-height` | _____ |
+| 15 | `text-decoration` | _____ |
+| 16 | `letter-spacing` | _____ |
+| 17 | `text-shadow` | _____ |
+
+Functionality
+| 18 | cursor | _____ |
+| 19 | @media | _____ |
+| 20 | transition | _____ |
+| 21 | transform | _____ |
+| 22 | overflow | _____ |
+
+
