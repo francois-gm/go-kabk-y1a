@@ -34,8 +34,8 @@ Duration of the presentation: **around 2 minutes** per person.
 | -------- | --------------------- | --------------------- |
 | September 16 (class 2) | Lucile | https://theoverkill.nl |
 | September 16 (class 2) | Sam | https://julesjanssen.biz/ |
-| September 23 (class 3) | Matilde | |
-| September 23 (class 3) | Jeungin | |
+| September 23 (class 3) | Matilde | https://altsdigital.com/ |
+| September 23 (class 3) | Jeungin | https://tholman.com/texter/ |
 | September 30 (class 4) | Nell | |
 | September 30 (class 4) | Khulan | |
 | October 7 (class 5) | No presentation | |
