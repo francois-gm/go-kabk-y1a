@@ -27,7 +27,7 @@ do `Command` + `Shift` + `S` while on the page.
 
 ## Properties
 
-See below:
+See table below:
 
 | | CSS property | Name |
 | -------- | --------  | --------------------- |
