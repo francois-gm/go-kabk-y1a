@@ -6,6 +6,7 @@
 - In the format of an HTML page that uses your assigned CSS property
 - The page should work as a display of most potential use cases of that property
 - Ultimately, each combined pages will form a collection of pages, an 'index' of most properties and their possibilities
+- You might have to use other CSS properties as well in order to 'highlight' your property. Think about width and height if you work with margin or padding, or opacity if you work with z-index.
 - During the assignment, you will have time to share your findings on your assigned property, as well as learn about other's findings
 
 Schedule:
