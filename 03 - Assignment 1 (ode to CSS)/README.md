@@ -1,198 +1,55 @@
-# Class 3, 2024/09/23
+# An ode to CSS (assignment 1)
 
-## Intro (30min)
+## Presentation
 
-- A website you like (Matilde, Jeungin, François)
+- Make a page that 'celebrates' a CSS property (an *ode*, a *homage*...)
+- In the format of an HTML page that uses your assigned CSS property
+- The page should work as a display of most potential use cases of that property
+- Ultimately, each combined pages will form a collection of pages, an 'index' of most properties and their possibilities
+- During the assignment, you will have time to share your findings on your assigned property, as well as learn about other's findings
 
-## Recap (15min)
+Schedule:
 
-- Name an example of a HTML `tag`?
-- How would you define, in your own words, what a HTML `tag` does?
-- Name an example of a HTML `attribute`?
-- How would you define, in your own words, what a HTML `attribute` does?
-- In an HTML document, what goes inside of the `<head>` tag?
-- In an HTML document, what goes inside of the `<body>` tag?
+- **23 September**: introduction of the assignment
+- **30 September**: individual/small group follow-up on the assignment (2h)
+- **07 October**: individual/small group follow-up on the assignment (4h)
+- **14 October**: delivery and presentation of the assignment in class
 
-### Presentation of exercise 1 (15min)
+| | CSS property | Name |
+| -------- | --------  | --------------------- |
+| **Decoration**  | --------  | --------------------- |
+| 1 | CSS colors (`#hex`, `rgb`), `color`, `background-color` | _____ |
+| 2 | `opacity` | _____ |
+| 3 | `border` | _____ |
+| 4 | `filter` | _____ |
+| 5 | `box-shadow` | _____ |
+| **Layout** | | |
+| 6 | CSS units (`px`, `%`, `vw`, `vh`) | _____ |
+| 7 | `position` | _____ |
+| 8 | `display:block;`, `float` | _____ |
+| 9 | `display:flex;` | _____ |
+| 10 | `margin`, `padding` | _____ |
+| 11 | `z-index` | _____ |
+| **Typography** | | |
+| 12 | `font` (`family`, `size`, `weight`) | _____ |
+| 13 | `text-align`, `letter-spacing` | _____ |
+| 14 | `line-height` | _____ |
+| 15 | `text-decoration` | _____ |
+| 16 | `letter-spacing` | _____ |
+| 17 | `text-shadow` | _____ |
+| **Functionality** | | |
+| 18 | `cursor` | _____ |
+| 19 | `@media` | _____ |
+| 20 | `transition` | _____ |
+| 21 | `transform` | _____ |
+| 22 | `overflow` | _____ |
 
-- Everybody present their analog code and their revision.
-- Explain what has changed and why (there are no wrong anwsers).
+Some links to help you research your CSS property:
 
-### Exercise 2, mapping elements (15min)
-
-Based on the revised code you've made for *Exercise 1*... 
-
-- Draw a the structure of all elements as boxes on a piece of paper.
-- Annotate each box by their tag name.
-- Take a picture and/or scan this.
-- Add it into the Teams folder corresponding to the right code.
-
-## Tutorial: A clean working document (15min)
-
-- Your project has its project own folder.
-- Inside your project folder, you have an html file named `index.html`.
-- Inside your project folder, you have a subfolder called `assets`, and in that folder, you have a subfolder for your `CSS`, and one for your `Javascript`.
-- Inside your `css` subfolder you have your `style.css` file.
-- Inside your `js` subfolder you have your `script.js` file.
-
-```
-your-project-folder
-
-   ├── index.html
-   ├── content
-   └── assets
-       ├── css
-       │   └── style.css
-       └── js
-           └── script.js
-```
-
-You link your style.css and script.js files in your html document.
-
-For `style.css`:
-
-- For the `style.css` document, this should be inside the <head> of your html document.
-- `<link rel="stylesheet" href="assets/css/style.css">`
-
-For `script.js`:
-
-- For the `script.js` document, this should be at the end of your html document.
-- `<script src="assets/js/script.js"></script>`
-
-## Tutorial: CSS (1h)
-
-> What is CSS?
-
-CSS stands for **C**ascade **S**tyle **S**heet.
-
-1. It behaves like a **cascade**.
-2. It **styles** the HTML elements (it's like painting the HTML blocks).
-3. It is a **sheet**.
-   
-But what does **behaves like a cascade** means? It means that:
-
-- You at first apply style rules that are general: they apply to all your elements, and are not very specific. As an example, **all paragraphs** have a **blue color**.
-- The you apply style rules that are more specific. As an example, **the paragraph with a red class** has a **red color**. All other paragraphs will keep their blue color.
-- In summary: All paragraphs have a blue color, paragraphs with the red class has a red color.
-
-```
-p{
-  color:blue;
-}
-
-p.red{
-  color:red;
-}
-```
-
-## Principles of CSS:
-
-- Precedence and priority (the cascade)
-- Selectors types and granularity in selecting.
-- The CSS **property-value** pair, as an example `color: blue;` where `color` is the property and `blue` is the value.
-- Pseudo classes (`a:hover`) apply to specific states (when the mouse hovers the `<a>` element, this CSS rules applies).
-
-<img src="css-terminology.svg" width="750px">
-
-### Selectors
-
-CSS selectors are used to “find” (or select) the HTML elements you want to style.
-
-#### Simple selectors
-
-- The **element** selector
-  - In HTML: `<p>`
-  - In CSS: `p{ property:value; }`
-  - Not very specific, less CSS 'cascade points'.
-- The **class** selector
-  - In HTML: `<p class="my-class">`
-  - In CSS: `p.my-class{ property:value; }`
-  - More specific than an *element* selector, more CSS 'cascade points'.
-  - You can have several elements sharing the same *class* in your HTML document.
-- The **id** selector
-  - In HTML: `<p id="my-id">`
-  - In CSS: `p#my-id{ property:value; }`
-  - More specific than a class selector, so even more CSS 'cascade points'.
-  - An id is unique, meaning you can only use each id once per html document.
-
-#### Combinator selectors
-
-Select elements based on a specific relationship between them.
-
-Example 1:
-
-- `p.my-class a.my-other-class`
-- Applies to `<a>` elements with the class `"my-other-class"` inside `<p>` elements with the class `"my-class"`
-- More specific than simple selector, so even even more CSS cascade points. The more specific, the more points, the more 'deep' in the cascade, the more it has precedence over less specific CSS rules.
-
-Example 2:
-
-- `div.my-class p:first-of-type`
-- Applies to the first `<p>` element inside a `<div>` element with the class `"my-class"`
-- Again, more specific than simple selector, so even even more CSS cascade points. The more specific, the more points, the more 'deep' in the cascade, the more it has precedence over less specific CSS rules.
-
-In example 2, we also have a **pseudo-class** selector, the `:first-of-type` selector.
-
-> A CSS pseudo-class is a keyword added to a selector that specifies a special state of the selected element(s).
-
-[Read more about pseudo-class selectors on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
-
-In short: The more the combination is specific, the more it has 'cascade points' and the more it has precedence over other CSS rules.
-
-<img src="css-specificity.svg" width="600px">
-
-- Inline CSS = 1-0-0-0
-- Id = 0-1-0-0 (added for each in a matching selector)
-- Class, pseudo-class, attribute = 0-0-1-0 (added for each in a matching selector)
-- Element, pseudo-element, 0-0-0-1 (added for each in a matching selector)
-
-## Read more
-
-- [All CSS selectors on W3school](https://www.w3schools.com/cssref/css_selectors.php)
-- [CSS selectors on web.dev](https://web.dev/learn/css/selectors?hl=en)
-- [More about how specificity gets calculated](https://webdesign.tutsplus.com/what-is-css-specificity--cms-34141t)
-- [Visual examples on specificity](https://www.w3schools.com/cssref/trysel.php?)
-- Practice your selectors by [playing the CSS Diner](https://flukeout.github.io) game!
-- ... or play [this other game](https://toolness.github.io/css-selector-game/)
-  
-## CSS *properties* and *values*
-
-*A CSS property determines an HTML element's style or behavior. Examples include font style, transform, border, color, and margin.*
-
-- [CSS properties almanac on CSS tricks.com](https://css-tricks.com/almanac/properties/)
-- [Basic CSS properties on simmons.edu](http://web.simmons.edu/~grabiner/comm244/weekthree/css-basic-properties.html))
-- [All CSS properties on W3school](https://www.w3schools.com/cssref/index.php)
-- [CSS tutorial W3school](https://www.w3schools.com/css/default.asp)
-
-## Exercise 3 (15min)
-
-- Complete levels 1-15 on [the CSS Diner](https://flukeout.github.io).
-- Then we will do them together.
-
-## Exercise 4, HTML/CSS selector based on specificity (30min)
-
-You are assigned with a *specificity* value.
-
-1. Write a CSS selector that matches with the assigned value.
-
-| Specificity | Name |
-| --------  | --------------------- |
-| 0-0-0-1 | Lucile, Matilde |
-| 0-0-0-3 | Sam, Jeungin |
-| 0-0-1-1 | Nell, Timmy |
-| 0-0-1-2 | Khulan, Fedja |
-| 0-0-2-1 | Duru, Kaja |
-| 0-0-2-3 | Yoonjin, Max |
-| 0-0-4-2 | Yalizah, Alexandr |
-| 0-1-0-1 | Femke, Olya |
-| 0-1-2-3 | Maria, Isaac |
-| 0-2-1-0 | Mani, Amy |
-| 0-2-3-2 | Myrto, Andrei |
-
-2. Exchange your CSS selector with someone. Now, write the HTML markup that corresponds to the selector you received.
-3. To make sure that the selector targets the HTML element you wrote, give that selector some CSS properties/values (the `color` or `background-color` properties as examples).
-
-## Presentation assignment 1
-
-CSS property specialist
-
+- [CSS properties almanac on CSS tricks](https://css-tricks.com/almanac/properties/)
+- [CSS properties on w3school](https://www.w3schools.com/cssref/index.php)
+- [CSS colors on w3school](https://www.w3schools.com/cssref/css_colors_legal.php)
+- [Codepen examples with CSS](https://codepen.io/team/css-tricks/pens/popular)
+- [JSfiddle CSS layout](https://jsfiddle.net/vintharas/ybt6k2dw/)
+- [CSS learn layout, with float](https://learnlayout.com)
+- [CSS values and units on MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
