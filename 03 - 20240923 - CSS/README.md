@@ -202,10 +202,10 @@ You are assigned with a *specificity* value.
 
 Schedule:
 
-- 23 September: introduction assignment
-- 30 September: 2h tutorial, 2h individual/small follow-up on the assignment
-- 07 October: individual/small group follow-up on the assignment
-- 14 October: delivery and presentation of the assignment in class
+- **23 September**: introduction of the assignment
+- **30 September**: individual/small group follow-up on the assignment (2h)
+- **07 October**: individual/small group follow-up on the assignment (4h)
+- **14 October**: delivery and presentation of the assignment in class
 
 | | CSS property | Name |
 | -------- | --------  | --------------------- |
