@@ -194,7 +194,11 @@ You are assigned with a *specificity* value.
 
 ## Presentation assignment 1
 
-(Write the prompt text)
+- Make a page that 'celebrates' a CSS property (an *ode*, a *homage*...)
+- In the format of an HTML page that uses your assigned CSS property
+- The page should work as a display of most potential use cases of that property
+- Ultimately, each combined pages will form a collection of pages, an 'index' of most properties and their possibilities
+- During the assignment, you will have time to share your findings on your assigned property, as well as learn about other's findings
 
 Schedule:
 
