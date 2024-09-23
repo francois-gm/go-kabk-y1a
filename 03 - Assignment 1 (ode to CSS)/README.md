@@ -32,10 +32,10 @@ Schedule:
 | 11 | `z-index` | Alexandr |
 | **Typography** | | |
 | 12 | `font` (`family`, `size`, `weight`) | Yoonjin |
-| 13 | `text-align`, `letter-spacing` | Fedja |
+| 13 | `text-align`, `text-indent` | Fedja |
 | 14 | `line-height` | Duru |
 | 15 | `text-decoration` | Myrto |
-| 16 | `letter-spacing` | Kaja |
+| 16 | `letter-spacing`, `word-spacing` | Kaja |
 | 17 | `text-shadow` | Femke |
 | **Functionality** | | |
 | 18 | `cursor` | Maria |
