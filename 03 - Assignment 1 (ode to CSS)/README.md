@@ -18,31 +18,31 @@ Schedule:
 | | CSS property | Name |
 | -------- | --------  | --------------------- |
 | **Decoration**  | --------  | --------------------- |
-| 1 | CSS colors (`#hex`, `rgb`), `color`, `background-color` | _____ |
-| 2 | `opacity` | _____ |
-| 3 | `border` | _____ |
-| 4 | `filter` | _____ |
-| 5 | `box-shadow` | _____ |
+| 1 | CSS colors (`#hex`, `rgb`), `color`, `background-color` | Nell |
+| 2 | `opacity` | Jeungin |
+| 3 | `border` | Timmy |
+| 4 | `filter` | Sam |
+| 5 | `box-shadow` | Matilde |
 | **Layout** | | |
-| 6 | CSS units (`px`, `%`, `vw`, `vh`) | _____ |
-| 7 | `position` | _____ |
-| 8 | `display:block;`, `float` | _____ |
-| 9 | `display:flex;` | _____ |
-| 10 | `margin`, `padding` | _____ |
-| 11 | `z-index` | _____ |
+| 6 | CSS units (`px`, `%`, `vw`, `vh`) | Khulan |
+| 7 | `position` | Lucile |
+| 8 | `display:block;`, `float` | Andrei |
+| 9 | `display:flex;` | Max |
+| 10 | `margin`, `padding` | Yalizah |
+| 11 | `z-index` | Alexandr |
 | **Typography** | | |
-| 12 | `font` (`family`, `size`, `weight`) | _____ |
-| 13 | `text-align`, `letter-spacing` | _____ |
-| 14 | `line-height` | _____ |
-| 15 | `text-decoration` | _____ |
-| 16 | `letter-spacing` | _____ |
-| 17 | `text-shadow` | _____ |
+| 12 | `font` (`family`, `size`, `weight`) | Yoonjin |
+| 13 | `text-align`, `letter-spacing` | Fedja |
+| 14 | `line-height` | Duru |
+| 15 | `text-decoration` | Myrto |
+| 16 | `letter-spacing` | Kaja |
+| 17 | `text-shadow` | Femke |
 | **Functionality** | | |
-| 18 | `cursor` | _____ |
-| 19 | `@media` | _____ |
-| 20 | `transition` | _____ |
-| 21 | `transform` | _____ |
-| 22 | `overflow` | _____ |
+| 18 | `cursor` | Maria |
+| 19 | `@media` | Olya |
+| 20 | `transition` | Isaac |
+| 21 | `transform` | Mani |
+| 22 | `overflow` | Amy |
 
 Some links to help you research your CSS property:
 
