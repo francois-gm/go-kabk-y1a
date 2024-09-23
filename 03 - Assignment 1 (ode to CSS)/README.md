@@ -25,6 +25,7 @@ You can [download it there](https://github.com/francois-gm/go-kabk-y1a/blob/main
 
 do `Command` + `Shift` + `S` while on the page.
 
+## Properties
 
 | | CSS property | Name |
 | -------- | --------  | --------------------- |
