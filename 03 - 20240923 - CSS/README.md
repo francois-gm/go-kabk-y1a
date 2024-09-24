@@ -160,7 +160,7 @@ In short: The more the combination is specific, the more it has 'cascade points'
 *A CSS property determines an HTML element's style or behavior. Examples include font style, transform, border, color, and margin.*
 
 - [CSS properties almanac on CSS tricks.com](https://css-tricks.com/almanac/properties/)
-- [Basic CSS properties on simmons.edu](http://web.simmons.edu/~grabiner/comm244/weekthree/css-basic-properties.html))
+- [Basic CSS properties on simmons.edu](http://web.simmons.edu/~grabiner/comm244/weekthree/css-basic-properties.html)
 - [All CSS properties on W3school](https://www.w3schools.com/cssref/index.php)
 - [CSS tutorial W3school](https://www.w3schools.com/css/default.asp)
 
