@@ -23,7 +23,7 @@
 
 Bonus:
 
-- What was the most **common** coding "mistake" that happened during our last class (guess: it's not really a ~~coding~~ mistake)
+- What was the most **common** coding "issue" experienced during our last class (guess: it's not really a ~~coding~~ mistake)?
   
 ## Tutorial: extending on CSS selectors (15min)
 
