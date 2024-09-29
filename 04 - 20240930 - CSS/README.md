@@ -72,7 +72,7 @@ You are assigned with a *specificity* value.
 2. Exchange your CSS selector with someone. Now, write the HTML markup that corresponds to the selector you received.
 3. To make sure that the selector targets the HTML element you wrote, give that selector some CSS properties/values (the `color` or `background-color` properties as examples).
 
-## Tutorial: more CSS (1h)
+## Tutorial: layouting basics with CSS (1h)
 
 - Let's make a basic page layout with a *header*, a *sidebar*, a *main content section*, and a *footer*.
 - We will use: relative positioning, absolute/fixed/sticky positioning.
