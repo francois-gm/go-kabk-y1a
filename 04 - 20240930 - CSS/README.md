@@ -40,7 +40,7 @@ But how does the 'CSS algorithm' actually works?
 - Class, pseudo-class, attribute = `0`-`0`-`1`-`0` (added for each in a matching selector)
 - Element, pseudo-element, `0`-`0`-`0`-`1` (added for each in a matching selector)
 
-## Read more
+### Read more
 
 - [All CSS selectors on W3school](https://www.w3schools.com/cssref/css_selectors.php)
 - [CSS selectors on web.dev](https://web.dev/learn/css/selectors?hl=en)
