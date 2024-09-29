@@ -35,11 +35,20 @@ But how does the 'CSS algorithm' actually works?
 
 <img src="css-specificity.svg" width="600px">
 
-- Inline CSS = 1-0-0-0
-- Id = 0-1-0-0 (added for each in a matching selector)
-- Class, pseudo-class, attribute = 0-0-1-0 (added for each in a matching selector)
-- Element, pseudo-element, 0-0-0-1 (added for each in a matching selector)
+- Inline CSS = `1`-`0`-`0`-`0`
+- Id = `0`-`1`-`0`-`0` (added for each in a matching selector)
+- Class, pseudo-class, attribute = `0`-`0`-`1`-`0` (added for each in a matching selector)
+- Element, pseudo-element, `0`-`0`-`0`-`1` (added for each in a matching selector)
 
+## Read more
+
+- [All CSS selectors on W3school](https://www.w3schools.com/cssref/css_selectors.php)
+- [CSS selectors on web.dev](https://web.dev/learn/css/selectors?hl=en)
+- [More about how specificity gets calculated](https://webdesign.tutsplus.com/what-is-css-specificity--cms-34141t)
+- [Visual examples on specificity](https://www.w3schools.com/cssref/trysel.php?)
+- Practice your selectors by [playing the CSS Diner](https://flukeout.github.io) game!
+- ... or play [this other game](https://toolness.github.io/css-selector-game/)
+  
 ## Exercise 1, HTML/CSS selector based on specificity (30min)
 
 You are assigned with a *specificity* value.
@@ -48,17 +57,17 @@ You are assigned with a *specificity* value.
 
 | Specificity | Name |
 | --------  | --------------------- |
-| 0-0-0-1 | Lucile, Matilde |
-| 0-0-0-3 | Sam, Jeungin |
-| 0-0-1-1 | Nell, Timmy |
-| 0-0-1-2 | Khulan, Fedja |
-| 0-0-2-1 | Duru, Kaja |
-| 0-0-2-3 | Yoonjin, Max |
-| 0-0-4-2 | Yalizah, Alexandr |
-| 0-1-0-1 | Femke, Olya |
-| 0-1-2-3 | Maria, Isaac |
-| 0-2-1-0 | Mani, Amy |
-| 0-2-3-2 | Myrto, Andrei |
+| `0`-`0`-`0`-`1` | Lucile, Matilde |
+| `0`-`0`-`0`-`3` | Sam, Jeungin |
+| `0`-`0`-`1`-`1` | Nell, Timmy |
+| `0`-`0`-`1`-`2` | Khulan, Fedja |
+| `0`-`0`-`2`-`1` | Duru, Kaja |
+| `0`-`0`-`2`-`3` | Yoonjin, Max |
+| `0`-`0`-`4`-`2` | Yalizah, Alexandr |
+| `0`-`1`-`0`-`1` | Femke, Olya |
+| `0`-`1`-`2`-`3` | Maria, Isaac |
+| `0`-`2`-`1`-`0` | Mani, Amy |
+| `0`-`2`-`3`-`2` | Myrto, Andrei |
 
 2. Exchange your CSS selector with someone. Now, write the HTML markup that corresponds to the selector you received.
 3. To make sure that the selector targets the HTML element you wrote, give that selector some CSS properties/values (the `color` or `background-color` properties as examples).
