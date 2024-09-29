@@ -80,7 +80,7 @@ You are assigned with a *specificity* value.
 
 Let's start with the blank template that we made in the previous class (download on this page). You can [download it there](https://github.com/francois-gm/go-kabk-y1a/blob/main/04%20-%2020240930%20-%20CSS/my-project-template.zip)
 
-(click on the three dots button `...` on the top right of your screen and then `download`,
+(click on the three dots button `...` on the top right of your screen and then `download`)
   
 - Layout properties: `display`, `position`, `float`, `float`.
 - Size: `width`, `height`.
@@ -100,11 +100,12 @@ Make small groups, and present your property to the other members of the group. 
 I will join the discussion at the following times:
 
 | Time slot | Students |
-| 15h40 | Lucile, Matilde, Sam, Jeungin |
-| 16h00 | Nell, Timmy, Khulan, Fedja |
-| 16h20 | Duru, Kaja, Yoonjin, Max |
-| 16h40 | Yalizah, Alexandr, Femke, Olya |
-| 17h00 | Maria, Isaac, Mani |
-| 17h15 | Myrto, Andrei, Amy |
+| -- | -------------- |
+| 15h40 | Nell, Khulan, Yoonjin, Isaac |
+| 16h00 | Jeungin, Max, Fedja, Olya |
+| 16h20 | Timmy, Andrei, Duru, Amy |
+| 16h40 | Sam, Lucile, Myrto, Mani |
+| 17h00 | Matilde, Yalizah, Kaja |
+| 17h15 | Alexandr, Femke, Maria |
 
 [See dedicated page](https://github.com/francois-gm/go-kabk-y1a/tree/main/03%20-%20Assignment%201%20(ode%20to%20CSS))
