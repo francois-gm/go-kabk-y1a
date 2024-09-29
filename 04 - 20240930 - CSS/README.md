@@ -1,35 +1,69 @@
-# Class 3, 2024/09/23
+# Class 4, 2024/09/30
 
 ## Intro (30min)
 
-- A website you like (Matilde, Jeungin, François)
+- A website you like (Nell, Khulan, François)
 
 ## Recap (15min)
 
-- Name an example of a HTML `tag`?
-- How would you define, in your own words, what a HTML `tag` does?
-- Name an example of a HTML `attribute`?
-- How would you define, in your own words, what a HTML `attribute` does?
-- In an HTML document, what goes inside of the `<head>` tag?
-- In an HTML document, what goes inside of the `<body>` tag?
+- Why would I want to use CSS in my HTML?
+- What is the 'cascade'?
+- *I want to write a CSS selector to target an HTML element so I can style it...*
+  - Name a general way of selecting that element
+  - Name a more specific way of selecting that element (using one HTML attribute)
+  - Name a very specific way to selecting that element (using one HTML attribute)
+- True or false...
+  - When writing a CSS selector, you can combine CSS classes under one selector.
+  - When writing a CSS selector, you can combine CSS id under one selector.
+  - You can give multiple id values to a HTML element.
+  - Each HTML element needs to have its individual selector in order to be *styled* by CSS.
+  - General CSS selector are more important than specific ones (and their styling overwrite specific ones).
+- Name three examples of CSS properties and what they visually do.
 
-### Presentation of exercise 1 (15min)
+## Tutorial: extending on CSS selectors (15min)
 
-- Everybody present their analog code and their revision.
-- Explain what has changed and why (there are no wrong anwsers).
+Last class, we saw several ways of writing *CSS selectors* to style our HTML elements.
 
-### Exercise 2, mapping elements (15min)
+In short: The more the combination is specific, the more it has 'cascade points' and the more it has precedence over other CSS rules.
 
-Based on the revised code you've made for *Exercise 1*... 
+But how does the 'CSS algorithm' actually works?
 
-- Draw a the structure of all elements as boxes on a piece of paper.
-- Annotate each box by their tag name.
-- Take a picture and/or scan this.
-- Add it into the Teams folder corresponding to the right code.
+<img src="css-specificity.svg" width="600px">
 
-## Tutorial: A clean working document (15min)
+- Inline CSS = 1-0-0-0
+- Id = 0-1-0-0 (added for each in a matching selector)
+- Class, pseudo-class, attribute = 0-0-1-0 (added for each in a matching selector)
+- Element, pseudo-element, 0-0-0-1 (added for each in a matching selector)
 
-- Your project has its project own folder.
+## Exercise 1, HTML/CSS selector based on specificity (30min)
+
+You are assigned with a *specificity* value.
+
+1. Define a CSS selector that matches with the assigned value.
+
+| Specificity | Name |
+| --------  | --------------------- |
+| 0-0-0-1 | Lucile, Matilde |
+| 0-0-0-3 | Sam, Jeungin |
+| 0-0-1-1 | Nell, Timmy |
+| 0-0-1-2 | Khulan, Fedja |
+| 0-0-2-1 | Duru, Kaja |
+| 0-0-2-3 | Yoonjin, Max |
+| 0-0-4-2 | Yalizah, Alexandr |
+| 0-1-0-1 | Femke, Olya |
+| 0-1-2-3 | Maria, Isaac |
+| 0-2-1-0 | Mani, Amy |
+| 0-2-3-2 | Myrto, Andrei |
+
+2. Exchange your CSS selector with someone. Now, write the HTML markup that corresponds to the selector you received.
+3. To make sure that the selector targets the HTML element you wrote, give that selector some CSS properties/values (the `color` or `background-color` properties as examples).
+
+## Tutorial: more CSS (1h)
+
+- display, position, float.
+- width, height.
+- flexbox.
+- 
 - Inside your project folder, you have an html file named `index.html`.
 - Inside your project folder, you have a subfolder called `assets`, and in that folder, you have a subfolder for your `CSS`, and one for your `Javascript`.
 - Inside your `css` subfolder you have your `style.css` file.
