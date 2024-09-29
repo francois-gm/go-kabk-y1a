@@ -151,29 +151,6 @@ In example 2, we also have a **pseudo-class** selector, the `:first-of-type` sel
 - Complete levels 1-15 on [the CSS Diner](https://flukeout.github.io).
 - Then we will do them together.
 
-## Exercise 4, HTML/CSS selector based on specificity (30min)
-
-You are assigned with a *specificity* value.
-
-1. Write a CSS selector that matches with the assigned value.
-
-| Specificity | Name |
-| --------  | --------------------- |
-| 0-0-0-1 | Lucile, Matilde |
-| 0-0-0-3 | Sam, Jeungin |
-| 0-0-1-1 | Nell, Timmy |
-| 0-0-1-2 | Khulan, Fedja |
-| 0-0-2-1 | Duru, Kaja |
-| 0-0-2-3 | Yoonjin, Max |
-| 0-0-4-2 | Yalizah, Alexandr |
-| 0-1-0-1 | Femke, Olya |
-| 0-1-2-3 | Maria, Isaac |
-| 0-2-1-0 | Mani, Amy |
-| 0-2-3-2 | Myrto, Andrei |
-
-2. Exchange your CSS selector with someone. Now, write the HTML markup that corresponds to the selector you received.
-3. To make sure that the selector targets the HTML element you wrote, give that selector some CSS properties/values (the `color` or `background-color` properties as examples).
-
 ## Presentation assignment 1
 
 [See dedicated page](https://github.com/francois-gm/go-kabk-y1a/tree/main/03%20-%20Assignment%201%20(ode%20to%20CSS))
