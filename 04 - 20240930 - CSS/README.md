@@ -1,13 +1,13 @@
 # Class 4, 2024/09/30
 
-## Intro (30min)
+## Intro (15min)
 
 - A website you like (Nell, Khulan, François)
 
 ## Recap (15min)
 
-- Why would one wants to add `CSS` in their `HTML` document?
-- Name three places where you can add your CSS in your document. Where would it be, preferably?
+- Why would one wants to add some `CSS` in project / what can CSS bring more to a `HTML` project?
+- Name three ways to add CSS styles in an HTML document. Can you tell us the plus and minuses of each method?
 - What is the "cascade"?
 - *I want to write a `CSS` selector to target an `HTML` element so I can style it...*
   - Name a **general** way of selecting that element
@@ -72,7 +72,7 @@ You are assigned with a *specificity* value.
 2. Exchange your CSS selector with someone. Now, write the HTML markup that corresponds to the selector you received.
 3. To make sure that the selector targets the HTML element you wrote, give that selector some CSS properties/values (the `color` or `background-color` properties as examples).
 
-## Tutorial: layouting basics with CSS (1h)
+## Tutorial: layouting basics with CSS (45min)
 
 - Let's make a basic page layout with a *header*, a *sidebar*, a *main content section*, and a *footer*.
 - We will use: relative positioning, absolute/fixed/sticky positioning.
@@ -87,6 +87,24 @@ Let's start with the blank template that we made in the previous class (download
 - The `display` property with the `flexbox` value.
 - More styling properties (what would you like to see?)
 
-## Presentation assignment 1
+## Class time to work on the *Ode to CSS* assignment (1h30)
+
+Make small groups, and present your property to the other members of the group. Think if you can combine some of that new knowledge in your own assignment. Afterwards, sketch some ideas about how you can 'conceptually' use your property and display all its variations in a playful way.
+
+- How you declare your property?
+- What are the possible options of that property (color, accepted units, other options)?
+- How does it look when applied to HTML elements?
+- If applicable, to which HTML elements does the property works on?
+- How can you leverage the property and make a page that displays the various possibilites of it?
+
+I will join the discussion at the following times:
+
+| Time slot | Students |
+| 15h40 | Lucile, Matilde, Sam, Jeungin |
+| 16h00 | Nell, Timmy, Khulan, Fedja |
+| 16h20 | Duru, Kaja, Yoonjin, Max |
+| 16h40 | Yalizah, Alexandr, Femke, Olya |
+| 17h00 | Maria, Isaac, Mani |
+| 17h15 | Myrto, Andrei, Amy |
 
 [See dedicated page](https://github.com/francois-gm/go-kabk-y1a/tree/main/03%20-%20Assignment%201%20(ode%20to%20CSS))
