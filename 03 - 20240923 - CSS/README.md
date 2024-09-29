@@ -137,24 +137,6 @@ In example 2, we also have a **pseudo-class** selector, the `:first-of-type` sel
 
 [Read more about pseudo-class selectors on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 
-In short: The more the combination is specific, the more it has 'cascade points' and the more it has precedence over other CSS rules.
-
-<img src="css-specificity.svg" width="600px">
-
-- Inline CSS = 1-0-0-0
-- Id = 0-1-0-0 (added for each in a matching selector)
-- Class, pseudo-class, attribute = 0-0-1-0 (added for each in a matching selector)
-- Element, pseudo-element, 0-0-0-1 (added for each in a matching selector)
-
-## Read more
-
-- [All CSS selectors on W3school](https://www.w3schools.com/cssref/css_selectors.php)
-- [CSS selectors on web.dev](https://web.dev/learn/css/selectors?hl=en)
-- [More about how specificity gets calculated](https://webdesign.tutsplus.com/what-is-css-specificity--cms-34141t)
-- [Visual examples on specificity](https://www.w3schools.com/cssref/trysel.php?)
-- Practice your selectors by [playing the CSS Diner](https://flukeout.github.io) game!
-- ... or play [this other game](https://toolness.github.io/css-selector-game/)
-  
 ## CSS *properties* and *values*
 
 *A CSS property determines an HTML element's style or behavior. Examples include font style, transform, border, color, and margin.*
