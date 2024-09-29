@@ -108,9 +108,9 @@ I will join the conversation at the following times:
 
 | Time slot | Group |
 | -- | -------------- |
-| 15h40 | Nell, Khulan, Yoonjin, Isaac |
+| 15h40 | Nell, Andrei, Yoonjin, Isaac |
 | 16h00 | Femke, Max, Fedja, Olya |
-| 16h20 | Timmy, Andrei, Duru, Amy |
+| 16h20 | Timmy, Khulan, Duru, Amy |
 | 16h40 | Sam, Lucile, Myrto, Mani |
 | 17h00 | Matilde, Yalizah, Kaja |
 | 17h15 | Jeungin, Alexandr, Maria |
