@@ -20,7 +20,7 @@ Schedule:
 
 You can [download it there](https://github.com/francois-gm/go-kabk-y1a/blob/main/03%20-%20Assignment%201%20(ode%20to%20CSS)/my-project-template.zip)
 
-(click on the three dots button `...` on the top right of your screen and then `download`,
+(click on the three dots button `...` on the top right of your screen and then `download`)
 
 **OR** 
 
