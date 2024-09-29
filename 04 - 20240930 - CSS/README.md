@@ -74,14 +74,18 @@ You are assigned with a *specificity* value.
 
 ## Tutorial: more CSS (1h)
 
-- display, position, float.
-- width, height.
-- flexbox.
-- 
-- Inside your project folder, you have an html file named `index.html`.
-- Inside your project folder, you have a subfolder called `assets`, and in that folder, you have a subfolder for your `CSS`, and one for your `Javascript`.
-- Inside your `css` subfolder you have your `style.css` file.
-- Inside your `js` subfolder you have your `script.js` file.
+- Let's make a basic page layout with a *header*, a *sidebar*, a *main content section*, and a *footer*.
+- We will use: relative positioning, absolute/fixed/sticky positioning.
+- We will add some visual differentiation across elements.
+
+Let's start with the blank template that we made in the previous class (download on this page). You can [download it there](https://github.com/francois-gm/go-kabk-y1a/blob/main/03%20-%20Assignment%201%20(ode%20to%20CSS)/my-project-template.zip)
+
+(click on the three dots button `...` on the top right of your screen and then `download`,
+  
+- Layout properties: `display`, `position`, `float`, `float`.
+- Size: `width`, `height`.
+- The `display` property with the `flexbox` value.
+
 
 ```
 your-project-folder
