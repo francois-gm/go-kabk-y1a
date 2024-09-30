@@ -89,9 +89,9 @@ Let's start with the blank template that we made in the previous class (download
 
 ## Class time to work on the *Ode to CSS* assignment (1h30)
 
-Make **small groups**, and present your `property` to the other members of the group. 
+Make **small groups** based on your CSS property, and present your `property` to the other members of the group. 
 
-- How about giving the other property a try?
+- How about giving the other's property a try?
 - Would some of these help you in your own project?
 
 Afterwards, sketch some ideas about how you can 'conceptually' use your property and display all its variations in a playful way.
@@ -108,11 +108,9 @@ I will join the conversation at the following times:
 
 | Time slot | Group |
 | -- | -------------- |
-| 15h40 | Nell, Andrei, Yoonjin, Isaac |
-| 16h00 | Femke, Max, Fedja, Olya |
-| 16h20 | Timmy, Khulan, Duru, Amy |
-| 16h40 | Sam, Lucile, Myrto, Mani |
-| 17h00 | Matilde, Yalizah, Kaja |
-| 17h15 | Jeungin, Alexandr, Maria |
+| 15h40 | Nell, Jeungin, Timmy, Sam, Mathilde |
+| 16h10 | Khulan, Lucile, Andrei, Max, Yalizah, Alexandr |
+| 16h40 | Yoonjin, Fedja, Duru, Myrto, Kaja, Femke |
+| 17h10 | Maria, Olya, Issac, Mani, Amy |
 
 [See dedicated page](https://github.com/francois-gm/go-kabk-y1a/tree/main/03%20-%20Assignment%201%20(ode%20to%20CSS))
