@@ -36,8 +36,8 @@ Duration of the presentation: **around 2 minutes** per person.
 | September 16 (class 2) | Sam | https://julesjanssen.biz/ |
 | September 23 (class 3) | Matilde | https://altsdigital.com/ |
 | September 23 (class 3) | Jeungin | https://tholman.com/texter/ |
-| September 30 (class 4) | Nell | |
-| September 30 (class 4) | Khulan | |
+| September 30 (class 4) | Nell | https://abstract-intelligence.com |
+| September 30 (class 4) | Khulan | because-recollection.com |
 | October 7 (class 5) | No presentation | |
 | October 14 (class 6) | Timmy | |
 | October 14 (class 6) | Fedja | |
