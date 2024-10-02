@@ -14,7 +14,7 @@ Then:
 - We will use: relative positioning, absolute/fixed/sticky positioning.
 - We will add some visual differentiation across elements.
 
-Let's start with the blank template that we made in the previous class (download on this page). You can [download it there](https://github.com/francois-gm/go-kabk-y1a/blob/main/04%20-%2020240930%20-%20CSS/my-project-template.zip).
+We start with the blank template that we made in the previous class (download on this page). You can [download it there](https://github.com/francois-gm/go-kabk-y1a/blob/main/04%20-%2020240930%20-%20CSS/my-project-template.zip).
 
 (click on the three dots button `...` on the top right of your screen and then `download`)
   
