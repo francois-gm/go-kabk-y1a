@@ -14,7 +14,8 @@ Schedule:
 - **23 September**: introduction of the assignment
 - **30 September**: individual/small group follow-up on the assignment (2h)
 - **07 October**: individual/small group follow-up on the assignment (4h)
-- **14 October**: delivery and presentation of the assignment in class
+- **14 October**: individual/small group follow-up on the assignment (2h)
+- - **21 October**: delivery and presentation of the assignment in class
 
 ### You can use the starting template we made together before
 
