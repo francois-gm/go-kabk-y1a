@@ -6,6 +6,8 @@
 
 ## Tutorial: layouting basics with CSS (1h)
 
+Let's do a **CSS reset**: https://meyerweb.com/eric/tools/css/reset/
+
 - Let's make a basic page layout with a *header*, a *sidebar*, a *main content section*, and a *footer*.
 - We will use: relative positioning, absolute/fixed/sticky positioning.
 - We will add some visual differentiation across elements.
