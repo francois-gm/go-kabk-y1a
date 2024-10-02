@@ -2,27 +2,21 @@
 
 ## Intro (30min)
 
-- A website you like (Nell, Khulan, François)
+- A website you like (Timmy, Fedja, François)
 
-## Recap (15min)
+## Tutorial: layouting basics with CSS (1h)
 
-- Why would one wants to add `CSS` in their `HTML` document?
-- Name three places where you can add your CSS in your document. Where would it be, preferably?
-- What is the "cascade"?
-- *I want to write a `CSS` selector to target an `HTML` element so I can style it...*
-  - Name a **general** way of selecting that element
-  - Name a **more specific** way of selecting that element (using **one** HTML `attribute`)
-  - Name a **very specific** way to selecting that element (using **one** HTML `attribute`)
-- **True** or **false**...
-  - When writing a `CSS` selector, you can combine different `class` under one selector.
-  - When writing a `CSS` selector, you can combine diffrent `id` under one selector.
-  - You can give multiple `id` values to one `HTML` element.
-  - Each HTML element needs to have its individual selector in order to be *styled* by CSS.
-  - **General** `CSS` selector are **more important** than **specific ones** (and their styling overwrite specific ones).
-- **Name three** examples of CSS properties and **what** they visually do.
+- Let's make a basic page layout with a *header*, a *sidebar*, a *main content section*, and a *footer*.
+- We will use: relative positioning, absolute/fixed/sticky positioning.
+- We will add some visual differentiation across elements.
 
-Bonus:
+Let's start with the blank template that we made in the previous class (download on this page). You can [download it there](https://github.com/francois-gm/go-kabk-y1a/blob/main/04%20-%2020240930%20-%20CSS/my-project-template.zip)
 
-- What was the most **common** coding "issue" experienced during our last class (guess: it's not really a ~~coding~~ mistake)?
+(click on the three dots button `...` on the top right of your screen and then `download`)
   
-## Tutorial: extending on CSS selectors (15min)
+- Layout properties: `display`, `position`, `float`, `float`.
+- Size: `width`, `height`.
+- The `display` property with the `flexbox` value.
+- More styling properties (what would you like to see?)
+
+## Time for assignment (individual and/or small groups)
