@@ -27,3 +27,7 @@
 - We create a toggler button (dark mode, and or a modal menu)
 - We create a JS counter (increment)
 - We create a randomizer (shows random sentences on click)
+
+## Pseudo-code examples
+
+Look at [Pseudo-code](https://en.wikipedia.org/wiki/Pseudocode), [Structured English](https://en.wikipedia.org/wiki/Structured_English), [Natural-language programming](https://en.wikipedia.org/wiki/Natural-language_programming), [esoteric language](https://en.wikipedia.org/wiki/Esoteric_programming_language) (2h)
