@@ -8,7 +8,7 @@
 
 - Questions related to layout (float vs flexbox, margin vs padding, etc).
 
-## Presentation of the assignment outcome (30min, 1min each)
+## *Ode to CSS*, each present their final project (30min, 1min each)
 
 ## Tutorial: Javascript essentials (30min)
 
