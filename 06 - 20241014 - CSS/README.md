@@ -1,6 +1,6 @@
 # Class 6, 2024/10/14
 
-## Intro (30min)
+## Intro (15min)
 
 - A website you like (Timmy, Fedja, François)
 
@@ -19,4 +19,4 @@ Let's start with the blank template that we made in the previous class (download
 - The `display` property with the `flexbox` value.
 - More styling properties (what would you like to see?)
 
-## Time for assignment (individual and/or small groups)
+## Time for assignment (individual and/or small groups) (2h30)
