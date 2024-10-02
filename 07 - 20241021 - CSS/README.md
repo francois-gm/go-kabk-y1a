@@ -21,7 +21,7 @@
   - What is a conditional statement?
   - What are javascript expressions and operators?
 
-## Tutorial: manipulating the document (the *DOM*) with Javascript (2h30)
+## Tutorial: manipulating the document (the *DOM*) with Javascript (2h)
 
 - We create basic JS event handlers (on click, on mouse over, on scroll)
 - We create a toggler button (dark mode, and or a modal menu)
