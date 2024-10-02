@@ -72,21 +72,6 @@ You are assigned with a *specificity* value.
 2. Exchange your CSS selector with someone. Now, write the HTML markup that corresponds to the selector you received.
 3. To make sure that the selector targets the HTML element you wrote, give that selector some CSS properties/values (the `color` or `background-color` properties as examples).
 
-## Tutorial: layouting basics with CSS (45min)
-
-- Let's make a basic page layout with a *header*, a *sidebar*, a *main content section*, and a *footer*.
-- We will use: relative positioning, absolute/fixed/sticky positioning.
-- We will add some visual differentiation across elements.
-
-Let's start with the blank template that we made in the previous class (download on this page). You can [download it there](https://github.com/francois-gm/go-kabk-y1a/blob/main/04%20-%2020240930%20-%20CSS/my-project-template.zip)
-
-(click on the three dots button `...` on the top right of your screen and then `download`)
-  
-- Layout properties: `display`, `position`, `float`, `float`.
-- Size: `width`, `height`.
-- The `display` property with the `flexbox` value.
-- More styling properties (what would you like to see?)
-
 ## Class time to work on the *Ode to CSS* assignment (1h30)
 
 Make **small groups** based on your CSS property, and present your `property` to the other members of the group. 
