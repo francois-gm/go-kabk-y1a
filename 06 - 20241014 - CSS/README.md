@@ -20,3 +20,12 @@ Let's start with the blank template that we made in the previous class (download
 - More styling properties (what would you like to see?)
 
 ## Time for assignment (individual and/or small groups) (2h30)
+
+| Time slot | Group |
+| -- | -------------- |
+| 15h00 | Nell, Andrei, Yoonjin, Isaac |
+| 15h25 | Femke, Max, Fedja, Olya |
+| 15h50 | Timmy, Khulan, Duru, Amy |
+| 16h15 | Sam, Lucile, Myrto, Mani |
+| 16h40 | Matilde, Yalizah, Kaja |
+| 17h05 | Jeungin, Alexandr, Maria |
