@@ -6,7 +6,9 @@
 
 ## Tutorial: layouting basics with CSS (1h)
 
-First, let's do a [CSS reset](https://meyerweb.com/eric/tools/css/reset/)
+We start with the blank template that we made in the previous class (download on this page). You can [download it there](https://github.com/francois-gm/go-kabk-y1a/blob/main/06%20-%2020241014%20-%20CSS/my-project-template.zip).
+
+First, let's do a [CSS reset](https://meyerweb.com/eric/tools/css/reset/) or a [CSS normalize](https://nicolasgallagher.com/about-normalize-css/)
 
 Then:
 
