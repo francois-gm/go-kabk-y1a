@@ -20,18 +20,17 @@ We start with the blank template that we made in the previous class (download on
 
 (click on the three dots button `...` on the top right of your screen and then `download`)
   
-- Layout properties: `display`, `position`, `float`, `float`.
+- Layout properties: `display`, `position`, `float`, `clear`.
 - Size: `width`, `height`.
-- The `display` property with the `flexbox` value.
 - More styling properties (what would you like to see?)
 
 ## Time for assignment (individual and/or small groups) (2h30)
 
 | Time slot | Group |
 | -- | -------------- |
-| 15h00 | Nell, Andrei, Yoonjin, Isaac |
-| 15h25 | Femke, Max, Fedja, Olya |
-| 15h50 | Timmy, Khulan, Duru, Amy |
-| 16h15 | Sam, Lucile, Myrto, Mani |
-| 16h40 | Matilde, Yalizah, Kaja |
-| 17h05 | Jeungin, Alexandr, Maria |
+| 15h45 | Nell, Andrei, Yoonjin, Isaac |
+| 16h05 | Femke, Max, Fedja, Olya |
+| 16h25 | Timmy, Khulan, Duru, Amy |
+| 16h45 | Sam, Lucile, Myrto, Mani |
+| 17h05 | Matilde, Yalizah, Kaja |
+| 17h25 | Jeungin, Alexandr, Maria |
