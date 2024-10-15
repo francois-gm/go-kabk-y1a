@@ -39,8 +39,8 @@ Duration of the presentation: **around 2 minutes** per person.
 | September 30 (class 4) | Nell | https://abstract-intelligence.com |
 | September 30 (class 4) | Khulan | http://www.because-recollection.com |
 | October 7 (class 5) | No presentation | |
-| October 14 (class 6) | Timmy | |
-| October 14 (class 6) | Fedja | |
+| October 14 (class 6) | Timmy | https://70s.myretrotvs.com |
+| October 14 (class 6) | Fedja | https://almanacpress.xyz |
 | October 21 (class 7) | Duru | |
 | October 21 (class 7) | Yoonjin | |
 | November 4 (class 8) | Kaja | |
