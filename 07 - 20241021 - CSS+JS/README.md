@@ -21,8 +21,7 @@ Add your url to the list.
 
 ### b) Presentation
 
-- You have **two minutes** to present the website of one of your classmate (so not your website). See below for list.
-  
+- You have **two minutes** to present the website of one of your classmate (so not your website).
 - First, do a *test drive* of the website. *Click, resize, scroll*…
 - **How does the website works?** Functionality? Aesthetics? Conceptual? **Describe it in a few sentences**.
 
