@@ -68,19 +68,21 @@ Essential terminology:
 
 ### Variables
 
-*Variables are "containers" for storing data*.
+*Variables are "containers" for storing data*
 
 - `var`, is a variable declaration type
 - `let`, is a variable declaration type that can be redefined (**let** this be this value).
 - `const`, is a variable declaration type that is not redefined (this value is **const**ant).
 
-Data can be of several type
+*Data can be of several types*
 
 - Boolean: `true` or `false`
 - Number: `0`, `1`, `2`, `-1`, `-2`, `3.1416`
 - String: `"someText"`
 - Array: `["apple", "orange", "banana"]`
 - Object: ...
+
+**Example:**
 
 ```
 let appleCount = 5;
@@ -166,10 +168,12 @@ else{
 
 ## Tutorial: manipulating the document (the *DOM*) with Javascript (2h)
 
-- We create basic JS event handlers (on click, on mouse over, on scroll)
-- We create a toggler button (dark mode, and or a modal menu)
-- We create a JS counter (increment)
-- We create a randomizer (shows random sentences on click)
+Ideas:
+
+- Create basic JS event handlers (on click, on mouse over, on scroll)
+- Create a toggler button (dark mode, and or a modal menu)
+- Create a JS counter (increment)
+- Create a randomizer (shows random sentences on click)
 
 ## Pseudo-code examples
 
