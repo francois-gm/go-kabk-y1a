@@ -10,6 +10,10 @@
 
 ## *Ode to CSS*, each present their final project (30min, 1min each)
 
+1) Create an account on [Netlify](https://app.netlify.com)
+2) `Site` -> `Deploy manually` (`browse to upload`).
+3) Choose your *project* folder (`my-project-template`, as an example), by this I mean the **root** folder of your project, that contains your `index.html`, your `assets` and your `content` folders.
+
 ## Tutorial: Javascript essentials (30min)
 
 - What does Javascript do?
