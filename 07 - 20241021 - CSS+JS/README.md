@@ -10,37 +10,39 @@
 
 ## *Ode to CSS*, each present their final project (30min, 1min each)
 
+### a) Put your website online
+
 1) Create an account on [Netlify](https://app.netlify.com).
 2) `Site` -> `Deploy manually` (`browse to upload`).
 3) When browsing, select your *project* folder (`my-project-template`, as an example), by this I mean the **root** folder of your project, that contains your `index.html`, your `assets` and your `content` folders.
-4) There it is.
+4) There it is!
 
 Add your url to the list.
 
-| Name | URL |
-| -- | -------------- |
-| Lucile | |
-| Sam | |
-| Matilde | |
-| Jeungin | |
-| Nell | |
-| Khulan | |
-| Timmy | |
-| Fedja | |
-| Duru | |
-| Yoonjin | |
-| Kaja | |
-| Max | |
-| Yalizah | |
-| Maria | |
-| Femke | |
-| Alexandr | |
-| Myrto | |
-| Andrei | |
-| Olya | |
-| Mani | |
-| Isaac | |
-| Amy | |
+| Name | Presented by | URL |
+| -- | -------------- | ------------- |
+| Lucile | Amy |
+| Sam | Lucile |
+| Matilde | Sam |
+| Jeungin | Matilde |
+| Nell | Jeungin |
+| Khulan | Nell |
+| Timmy | Khulan |
+| Fedja | Timmy |
+| Duru | Fedja |
+| Yoonjin | Duru |
+| Kaja | Yoonjin |
+| Max | Kaja |
+| Yalizah | Max |
+| Maria | Yalizah |
+| Femke | Maria |
+| Alexandr | Femke |
+| Myrto | Alexandr |
+| Andrei | Myrto |
+| Olya | Andrei |
+| Mani | Olya |
+| Isaac | Manu |
+| Amy | Isaac |
 
 ## Tutorial: Javascript essentials (30min)
 
