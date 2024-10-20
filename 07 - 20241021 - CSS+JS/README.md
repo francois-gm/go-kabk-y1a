@@ -92,8 +92,8 @@ where `citrusCount` equals to **7**.
 
 ### Events
 
-- See [event listeners on the w3school](https://www.w3schools.com/jsref/met_document_addeventlistener.asp)
-- And [functions on the w3school](https://www.w3schools.com/js/js_functions.asp)
+- See [event listeners on the w3school](https://www.w3schools.com/jsref/met_document_addeventlistener.asp).
+- And [functions on the w3school](https://www.w3schools.com/js/js_functions.asp).
 
 ### Expressions
 
