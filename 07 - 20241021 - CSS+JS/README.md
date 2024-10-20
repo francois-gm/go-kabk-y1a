@@ -66,7 +66,7 @@ Then:
   - What is a [conditional statement](https://www.w3schools.com/js/js_comparisons.asp)?
   - What are javascript [expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators) and [operators](https://www.w3schools.com/js/js_operators.asp)?
 
-### Variables:
+### Variables
 
 - `var`, is a variable
 - `let`, is a variable that can be redefined (**let** this be this value).
@@ -89,11 +89,15 @@ where `fruitCount` equals to **15**.
 let citrusCount = orangeCount + lemonCount;
 ```
 where `citrusCount` equals to **7**.
-###
+
+### Events
+
+- See [event listeners on the w3school](https://www.w3schools.com/jsref/met_document_addeventlistener.asp)
+- And [functions on the w3school](https://www.w3schools.com/js/js_functions.asp)
 
 ### Expressions
 
-> At a high level, an expression is a valid unit of code that resolves to a value.
+*In JavaScript, an expression is a valid unit of code that resolves to a value.*
 
 - `5 + 3` produces 8
 - `50 * 2` produces 100
@@ -101,7 +105,7 @@ where `citrusCount` equals to **7**.
 
 ### Operators
 
-Comparison operators
+**Comparison operators**
 
 - `>` is bigger than
 - `<` is smaller than
@@ -112,22 +116,31 @@ Comparison operators
 - `===` is strictly equal to
 - `!==` is strictly not equal to
 
-Logical operators
+**Logical operators**
 
 - `&&` and
 - `||` or
 
+**Example of a conditional statement**
+
 ```
 let juiceType;
 
-if( (lemonCount > 0) && (orangeCount < 1) ){
+if( (lemonCount >= 0) && (orangeCount == 0) ){
   let juiceType = lemonade;
-else if ( (lemonCount > 0) && (orangeCount > 0) ){
+else if ( (lemonCount >= 0) && (orangeCount >= 0) ){
   let juiceType = citrusPunch;
 else{
-  let juiceType = fruitPunch
+  let juiceType = fruitPunch;
 }
 ```
+
+- First we declare (but we don't define) the juice type.
+- Then we ask if the lemon count is equal or over one, and there are no oranges.
+- If that is the case, our juice type is a lemonade.
+- If that is not the case, then (else if) we ask if the lemon count is equal or over one, and there is one orange or more.
+- If that is the case, our juice is a citrus punch.
+- If it's not a lemonade or a citrus punch, then it's a fruit punch.
 
 ## Tutorial: manipulating the document (the *DOM*) with Javascript (2h)
 
