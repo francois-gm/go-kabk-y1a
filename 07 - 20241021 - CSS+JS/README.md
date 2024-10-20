@@ -148,11 +148,11 @@ document.addEventListener("click", myFunction);
 let juiceType;
 
 if( (lemonCount >= 0) && (orangeCount == 0) ){
-  let juiceType = lemonade;
+  juiceType = lemonade;
 else if ( (lemonCount >= 0) && (orangeCount >= 0) ){
-  let juiceType = citrusPunch;
+  juiceType = citrusPunch;
 else{
-  let juiceType = fruitPunch;
+  juiceType = fruitPunch;
 }
 ```
 
