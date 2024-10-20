@@ -56,9 +56,9 @@ Then:
 
 ## Tutorial: Javascript essentials (30min)
 
-- What does Javascript do?
+What does Javascript do?
   
-- Essential terminology:
+Essential terminology:
   
   - What is [a variable](https://www.w3schools.com/js/js_variables.asp) and [data types](https://www.w3schools.com/js/js_datatypes.asp)?
   - What is [an event](https://www.javatpoint.com/javascript-events) (event handler with [addEventListener](https://www.w3schools.com/jsref/met_document_addeventlistener.asp))?
@@ -68,9 +68,19 @@ Then:
 
 ### Variables
 
-- `var`, is a variable
-- `let`, is a variable that can be redefined (**let** this be this value).
-- `const`, is a variable that is not redefined (this value is **const**ant).
+*Variables are "containers" for storing data*.
+
+- `var`, is a variable declaration type
+- `let`, is a variable declaration type that can be redefined (**let** this be this value).
+- `const`, is a variable declaration type that is not redefined (this value is **const**ant).
+
+Data can be of several type
+
+- Boolean: `true` or `false`
+- Number: `0`, `1`, `2`, `-1`, `-2`, `3.1416`
+- String: `"someText"`
+- Array: `["apple", "orange", "banana"]`
+- Object: ...
 
 ```
 let appleCount = 5;
@@ -90,7 +100,19 @@ let citrusCount = orangeCount + lemonCount;
 ```
 where `citrusCount` equals to **7**.
 
-### Events
+### Events and functions
+
+*A JavaScript **function** is a block of code designed to perform a particular task. A JavaScript function is executed when "something" invokes it (calls it, an **event** as an example).*
+
+```
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Hello World";
+}
+```
+where above is the function and below is an event that invokes the function
+```
+document.addEventListener("click", myFunction);
+```
 
 - See [event listeners on the w3school](https://www.w3schools.com/jsref/met_document_addeventlistener.asp).
 - And [functions on the w3school](https://www.w3schools.com/js/js_functions.asp).
