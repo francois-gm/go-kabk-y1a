@@ -82,7 +82,7 @@ Essential terminology:
 - Array: `["apple", "orange", "banana"]`
 - Object: ...
 
-**Example:**
+**Example**
 
 ```
 let appleCount = 5;
@@ -104,7 +104,7 @@ where `citrusCount` equals to **7**.
 
 ### Events and functions
 
-*A JavaScript **function** is a block of code designed to perform a particular task. A JavaScript function is executed when "something" invokes it (calls it, an **event** as an example).*
+*A JavaScript **function** is a block of code designed to perform a particular task. A JavaScript function is executed when "something" invokes it (calls it, an **event** as an example)*
 
 ```
 function myFunction() {
@@ -116,12 +116,9 @@ where above is the function and below is an event that invokes the function
 document.addEventListener("click", myFunction);
 ```
 
-- See [event listeners on the w3school](https://www.w3schools.com/jsref/met_document_addeventlistener.asp).
-- And [functions on the w3school](https://www.w3schools.com/js/js_functions.asp).
-
 ### Expressions
 
-*In JavaScript, an expression is a valid unit of code that resolves to a value.*
+*In JavaScript, an expression is a valid unit of code that resolves to a value*
 
 - `5 + 3` produces 8
 - `50 * 2` produces 100
