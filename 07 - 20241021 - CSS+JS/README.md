@@ -4,7 +4,7 @@
 
 - A website you like (Duru, Yoonjin, François)
 
-### About next class's workshop
+**About next class's workshop…**
 
 - Guess tutor class with [Clara Pasteau](https://www.clarapasteau.com).
 - Clara will do a lunch lecture/presentation of her work (12h45-13h30), 1-2 students to create a visual for that (?)
@@ -85,7 +85,7 @@ Essential terminology:
 - Number: `0`, `1`, `2`, `-1`, `-2`, `3.1416`
 - String: `"someText"`
 - Array: `["apple", "orange", "banana"]`
-- Object: ...
+- Object: …
 
 **Example**
 
