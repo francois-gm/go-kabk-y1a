@@ -7,7 +7,7 @@
 ## About next class's workshop (15min)
 
 - Guess tutor class with [Clara Pasteau](https://www.clarapasteau.com).
-- Presentation before class (12h45-13h30), need 1-2 students to create a visual (?)
+- Clara will do a lunch lecture/presentation of her work (12h45-13h30), 1-2 students to create a visual for that (?)
 
 ## An *Ode to CSS*, each present their final project (1h)
 
