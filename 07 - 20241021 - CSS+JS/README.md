@@ -19,6 +19,21 @@
 
 Add your url to the list.
 
+### b) Presentation
+
+- You have **two minutes** to present the website of one of your classmate (so not your website). See below for list.
+  
+- First, do a *test drive* of the website. *Click, resize, scroll*…
+- **How does the website works?** Functionality? Aesthetics? Conceptual? **Describe it in a few sentences**.
+
+Then:
+
+- **Guess the CSS property** (class can help if not easy to guess, too).
+- What does this project make you think of?
+- Give a **positive quality** / something you **appreciate** in the website, and tell us **why**.
+- Think of the challenges / difficulties of working with this CSS property? How was this addressed?
+- If you would have to work on this website, are there elements you could either fine-tune or push further? Think functional, aesthetical, conceptual.
+
 | Name | URL | Presented by |
 | -- | -------------- | ------------- |
 | Lucile | - | Amy |
