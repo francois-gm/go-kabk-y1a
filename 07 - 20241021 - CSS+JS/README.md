@@ -19,7 +19,6 @@ Add your url on the list below:
 
 | Name | url |
 | -- | -------------- |
-| 15h45 | https://shimmering-bienenstitch-06ee4b.netlify.app |
 | Lucile | |
 | Sam | |
 | Matilde | |
