@@ -17,7 +17,7 @@
 
 Add your url on the list below:
 
-| Name | url |
+| Name | URL |
 | -- | -------------- |
 | Lucile | |
 | Sam | |
