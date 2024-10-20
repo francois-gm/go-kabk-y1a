@@ -19,30 +19,30 @@
 
 Add your url to the list.
 
-| Name | Presented by | URL |
+| Name | URL | Presented by |
 | -- | -------------- | ------------- |
-| Lucile | Amy |
-| Sam | Lucile |
-| Matilde | Sam |
-| Jeungin | Matilde |
-| Nell | Jeungin |
-| Khulan | Nell |
-| Timmy | Khulan |
-| Fedja | Timmy |
-| Duru | Fedja |
-| Yoonjin | Duru |
-| Kaja | Yoonjin |
-| Max | Kaja |
-| Yalizah | Max |
-| Maria | Yalizah |
-| Femke | Maria |
-| Alexandr | Femke |
-| Myrto | Alexandr |
-| Andrei | Myrto |
-| Olya | Andrei |
-| Mani | Olya |
-| Isaac | Manu |
-| Amy | Isaac |
+| Lucile | - | Amy |
+| Sam | - | Lucile |
+| Matilde | - | Sam |
+| Jeungin | - | Matilde |
+| Nell | - | Jeungin |
+| Khulan | - | Nell |
+| Timmy | - | Khulan |
+| Fedja | - | Timmy |
+| Duru | - | Fedja |
+| Yoonjin | - | Duru |
+| Kaja | - | Yoonjin |
+| Max | - | Kaja |
+| Yalizah | - | Max |
+| Maria | - | Yalizah |
+| Femke | - | Maria |
+| Alexandr | - | Femke |
+| Myrto | - | Alexandr |
+| Andrei | - | Myrto |
+| Olya | - | Andrei |
+| Mani | - | Olya |
+| Isaac | - | Manu |
+| Amy | - | Isaac |
 
 ## Tutorial: Javascript essentials (30min)
 
