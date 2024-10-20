@@ -4,6 +4,11 @@
 
 - A website you like (Duru, Yoonjin, François)
 
+## About next class's workshop (15min)
+
+- Guess tutor class with [Clara Pasteau](https://www.clarapasteau.com).
+- Presentation before class (12h45-13h30), need 1-2 students to create a visual (?)
+
 ## An *Ode to CSS*, each present their final project (1h)
 
 ### a) Put your website online (15min)
