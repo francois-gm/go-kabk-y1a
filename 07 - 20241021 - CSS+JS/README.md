@@ -15,7 +15,7 @@
 3) When browsing, select your *project* folder (`my-project-template`, as an example), by this I mean the **root** folder of your project, that contains your `index.html`, your `assets` and your `content` folders.
 4) There it is.
 
-Add your url on the list below:
+Add your url to the list.
 
 | Name | URL |
 | -- | -------------- |
