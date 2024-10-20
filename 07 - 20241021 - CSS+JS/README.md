@@ -66,6 +66,30 @@ Then:
   - What is a [conditional statement](https://www.w3schools.com/js/js_comparisons.asp)?
   - What are javascript [expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators) and [operators](https://www.w3schools.com/js/js_operators.asp)?
 
+Variables:
+
+`var`, is a variable
+`let`, is a variable that can be redefined (**let** this be this value).
+`const`, is a variable that is not redefined (this value is **const**ant).
+
+```
+var appleCount = 5;
+var orangeCount = 5;
+var lemonCount = 2;
+var bananaCount = 3;
+
+const appleColor = "red";
+
+let fruitCount = appleCount + orangeCount + lemonCount + bananaCount;
+```
+where `fruitCount` equals to **15**.
+```
+let citrusCount = orangeCount + lemonCount;
+```
+where `citrusCount` equals to **7**.
+
+
+
 ## Tutorial: manipulating the document (the *DOM*) with Javascript (2h)
 
 - We create basic JS event handlers (on click, on mouse over, on scroll)
