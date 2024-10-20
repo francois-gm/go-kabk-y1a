@@ -4,13 +4,9 @@
 
 - A website you like (Duru, Yoonjin, François)
 
-## Recap (15min)
+## An *Ode to CSS*, each present their final project (1h)
 
-- Questions related to layout (float vs flexbox, margin vs padding, etc).
-
-## *Ode to CSS*, each present their final project (30min, 1min each)
-
-### a) Put your website online
+### a) Put your website online (15min)
 
 1) Create an account on [Netlify](https://app.netlify.com).
 2) `Site` -> `Deploy manually` (`browse to upload`).
@@ -63,11 +59,12 @@ Then:
 - What does Javascript do?
   
 - Essential terminology:
-  - What is a variable?
-  - What is an event (event handler)?
-  - What is a function?
-  - What is a conditional statement?
-  - What are javascript expressions and operators?
+  
+  - What is [a variable](https://www.w3schools.com/js/js_variables.asp) and [data types](https://www.w3schools.com/js/js_datatypes.asp)?
+  - What is [an event](https://www.javatpoint.com/javascript-events) (event handler with [addEventListener](https://www.w3schools.com/jsref/met_document_addeventlistener.asp))?
+  - What is a [function](https://www.w3schools.com/js/js_functions.asp)?
+  - What is a [conditional statement](https://www.w3schools.com/js/js_comparisons.asp)?
+  - What are javascript [expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators) and [operators](https://www.w3schools.com/js/js_operators.asp)?
 
 ## Tutorial: manipulating the document (the *DOM*) with Javascript (2h)
 
