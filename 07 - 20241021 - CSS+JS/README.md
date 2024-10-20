@@ -88,7 +88,33 @@ let citrusCount = orangeCount + lemonCount;
 ```
 where `citrusCount` equals to **7**.
 
+Comparison operators
 
+- `>` is bigger than
+- `<` is smaller than
+- `>=` is bigger or equal to
+- `<=` is smaller or equal to
+- `==` is equal to
+- `!=` is not equal to
+- `===` is strictly equal to
+- `!==` is strictly not equal to
+
+Logical operators
+
+- `&&` and
+- `||` or
+
+```
+let juiceType;
+
+if( (lemonCount > 0) && (orangeCount < 1) ){
+  let juiceType = lemonade;
+else if ( (lemonCount > 0) && (orangeCount > 0) ){
+  let juiceType = citrusPunch;
+else{
+  let juiceType = fruitPunch
+}
+```
 
 ## Tutorial: manipulating the document (the *DOM*) with Javascript (2h)
 
