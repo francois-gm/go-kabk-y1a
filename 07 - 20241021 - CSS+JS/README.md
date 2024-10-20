@@ -66,20 +66,22 @@ Then:
   - What is a [conditional statement](https://www.w3schools.com/js/js_comparisons.asp)?
   - What are javascript [expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators) and [operators](https://www.w3schools.com/js/js_operators.asp)?
 
-Variables:
+### Variables:
 
-`var`, is a variable
-`let`, is a variable that can be redefined (**let** this be this value).
-`const`, is a variable that is not redefined (this value is **const**ant).
+- `var`, is a variable
+- `let`, is a variable that can be redefined (**let** this be this value).
+- `const`, is a variable that is not redefined (this value is **const**ant).
 
 ```
-var appleCount = 5;
-var orangeCount = 5;
-var lemonCount = 2;
-var bananaCount = 3;
+let appleCount = 5;
+let orangeCount = 5;
+let lemonCount = 2;
+let bananaCount = 3;
 
 const appleColor = "red";
-
+```
+where the apple count **can change** but its color is always (**const**antly) red.
+```
 let fruitCount = appleCount + orangeCount + lemonCount + bananaCount;
 ```
 where `fruitCount` equals to **15**.
@@ -87,6 +89,17 @@ where `fruitCount` equals to **15**.
 let citrusCount = orangeCount + lemonCount;
 ```
 where `citrusCount` equals to **7**.
+###
+
+### Expressions
+
+> At a high level, an expression is a valid unit of code that resolves to a value.
+
+- `5 + 3` produces 8
+- `50 * 2` produces 100
+- `"myText"` produces "myText"
+
+### Operators
 
 Comparison operators
 
