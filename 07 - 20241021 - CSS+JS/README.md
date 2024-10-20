@@ -12,7 +12,36 @@
 
 1) Create an account on [Netlify](https://app.netlify.com)
 2) `Site` -> `Deploy manually` (`browse to upload`).
-3) Choose your *project* folder (`my-project-template`, as an example), by this I mean the **root** folder of your project, that contains your `index.html`, your `assets` and your `content` folders.
+3) When browsing, select your *project* folder (`my-project-template`, as an example), by this I mean the **root** folder of your project, that contains your `index.html`, your `assets` and your `content` folders.
+4) There it is.
+
+Add your url on the list below:
+
+| Name | url |
+| -- | -------------- |
+| 15h45 | https://shimmering-bienenstitch-06ee4b.netlify.app |
+| Lucile | |
+| Sam | |
+| Matilde | |
+| Jeungin | |
+| Nell | |
+| Khulan | |
+| Timmy | |
+| Fedja | |
+| Duru | |
+| Yoonjin | |
+| Kaja | |
+| Max | |
+| Yalizah | |
+| Maria | |
+| Femke | |
+| Alexandr | |
+| Myrto | |
+| Andrei | |
+| Olya | |
+| Mani | |
+| Isaac | |
+| Amy | |
 
 ## Tutorial: Javascript essentials (30min)
 
