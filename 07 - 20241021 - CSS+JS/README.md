@@ -52,7 +52,7 @@ Then:
 | Maria | https://jolly-snickerdoodle-ec3788.netlify.app/ | Yalizah |
 | Femke | https://rococo-eclair-ad8e97.netlify.app | Maria |
 | Alexandr | https://sage-puffpuff-45545e.netlify.app/ | Femke |
-| Myrto | https://timely-moonbeam-d148e6.netlify.app/ | Alexandr |
+| Myrto | https://glistening-axolotl-97ac13.netlify.app | Alexandr |
 | Andrei | https://unreadable-andrei.netlify.app/ | Myrto |
 | Olya | https://regal-souffle-a33a60.netlify.app/ | Andrei |
 | Mani | https://thunderous-belekoy-91de20.netlify.app | Olya |
