@@ -4,10 +4,10 @@
 
 - A website you like (Duru, Yoonjin, François)
 
-**About next class's workshop…**
+**About next class's (Monday November 4th) workshop…**
 
 - Guess tutor class with [Clara Pasteau](https://www.clarapasteau.com).
-- Clara will do a lunch lecture/presentation of her work (12h45-13h30), 1-2 students to create a visual for that (?)
+- Clara will do a lunch lecture/presentation of her work (12h45-13h30) before that class, 1-2 students to create a visual for that (?)
 
 ## An *Ode to CSS*, each present their final project (1h)
 
