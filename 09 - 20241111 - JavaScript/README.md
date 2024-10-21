@@ -111,8 +111,6 @@ else{
 
 ## Tutorial: manipulating the document (the *DOM*) with Javascript (2h)
 
-Ideas:
-
 - Create a JS counter (increment)
 - Create a JS random color generator
 - Create a toggler button (dark mode, and or a modal menu)
