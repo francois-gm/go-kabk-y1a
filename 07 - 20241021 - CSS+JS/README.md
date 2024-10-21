@@ -172,10 +172,9 @@ else{
 
 Ideas:
 
-- Create basic JS event handlers (on click, on mouse over, on scroll)
-- Create a toggler button (dark mode, and or a modal menu)
 - Create a JS counter (increment)
-- Create a randomizer (shows random sentences on click)
+- Create a JS random color generator
+- Create a toggler button (dark mode, and or a modal menu)
 
 ## Pseudo-code examples
 
