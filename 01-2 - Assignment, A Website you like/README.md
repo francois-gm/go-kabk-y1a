@@ -41,8 +41,8 @@ Duration of the presentation: **around 2 minutes** per person.
 | October 7 (class 5) | No presentation | |
 | October 14 (class 6) | Timmy | https://70s.myretrotvs.com |
 | October 14 (class 6) | Fedja | https://almanacpress.xyz |
-| October 21 (class 7) | Duru | |
-| October 21 (class 7) | Yoonjin | |
+| October 21 (class 7) | Duru | https://neal.fun/deep-sea/ |
+| October 21 (class 7) | Yoonjin | http://v1.windows93.net |
 | November 4 (class 8) | Kaja | |
 | November 4 (class 8) | Max | |
 | November 11 (class 9) | Yalizah | |
