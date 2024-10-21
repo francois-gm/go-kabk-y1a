@@ -36,28 +36,28 @@ Then:
 
 | Name | URL | Presented by |
 | -- | -------------- | ------------- |
-| Lucile | - | Amy |
-| Sam | - | Lucile |
-| Matilde | - | Sam |
-| Jeungin | - | Matilde |
-| Nell | - | Jeungin |
-| Khulan | - | Nell |
-| Timmy | - | Khulan |
-| Fedja | - | Timmy |
-| Duru | - | Fedja |
-| Yoonjin | - | Duru |
-| Kaja | - | Yoonjin |
-| Max | - | Kaja |
-| Yalizah | - | Max |
-| Maria | - | Yalizah |
-| Femke | - | Maria |
-| Alexandr | - | Femke |
-| Myrto | - | Alexandr |
-| Andrei | - | Myrto |
-| Olya | - | Andrei |
-| Mani | - | Olya |
-| Isaac | - | Manu |
-| Amy | - | Isaac |
+| Lucile | https://aaaaaahhhblocksblocks.netlify.app | Amy |
+| Sam | https://chipper-zabaione-ff4be2.netlify.app/ | Lucile |
+| Matilde | https://boxshadoweddogs.netlify.app | Sam |
+| Jeungin | https://unrivaled-cannoli-9d329d.netlify.app | Matilde |
+| Nell | https://singular-yeot-592cd8.netlify.app/ | Jeungin |
+| Khulan | https://profound-kitten-111905.netlify.app/ | Nell |
+| Timmy | https://thewonderfulworldofborders.netlify.app | Khulan |
+| Fedja | https://glistening-sprite-5892fb.netlify.app/ | Timmy |
+| Duru | https://chic-salmiakki-b981be.netlify.app | Fedja |
+| Yoonjin | https://venerable-cactus-314c19.netlify.app | Duru |
+| Kaja | https://off-with-their-heads.netlify.app/ | Yoonjin |
+| Max | https://playful-crostata-3b3249.netlify.app/ | Kaja |
+| Yalizah | https://melodious-duckanoo-cfe379.netlify.app/ | Max |
+| Maria | https://jolly-snickerdoodle-ec3788.netlify.app/ | Yalizah |
+| Femke | https://rococo-eclair-ad8e97.netlify.app | Maria |
+| Alexandr | https://sage-puffpuff-45545e.netlify.app/ | Femke |
+| Myrto | https://timely-moonbeam-d148e6.netlify.app/ | Alexandr |
+| Andrei | https://unreadable-andrei.netlify.app/ | Myrto |
+| Olya | https://regal-souffle-a33a60.netlify.app/ | Andrei |
+| Mani | https://thunderous-belekoy-91de20.netlify.app | Olya |
+| Isaac | https://moonlit-nasturtium-8bb8de.netlify.app/ | Manu |
+| Amy | https://timely-arithmetic-f3414d.netlify.app/ | Isaac |
 
 ## Tutorial: Javascript essentials (30min)
 
