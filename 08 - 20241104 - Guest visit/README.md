@@ -4,4 +4,4 @@
 
 ## Guest class
 
-We start with the blank template provided by Clara (download on this page). You can [download it there](https://github.com/francois-gm/go-kabk-y1a/blob/main/06%20-%2020241014%20-%20CSS/my-project-template.zip).
+We start with the blank template provided by Clara (download on this page). You can [download it there](https://github.com/francois-gm/go-kabk-y1a/blob/main/08%20-%2020241104%20-%20Guest%20visit/starterkit.zip).
