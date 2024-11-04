@@ -43,7 +43,7 @@ Duration of the presentation: **around 2 minutes** per person.
 | October 14 (class 6) | Fedja | https://almanacpress.xyz |
 | October 21 (class 7) | Duru | https://neal.fun/deep-sea/ |
 | October 21 (class 7) | Yoonjin | http://v1.windows93.net |
-| November 4 (class 8) | Kaja | |
+| November 4 (class 8) | Kaja | https://poolsuite.net |
 | November 4 (class 8) | Max | |
 | November 11 (class 9) | Yalizah | |
 | November 11 (class 9) | Maria | |
