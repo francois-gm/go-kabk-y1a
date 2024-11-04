@@ -2,5 +2,6 @@
 
 ## Guest presentation, [Clara Pasteau](https://www.clarapasteau.com) (12h45-13h30)
 
-
 ## Guest class
+
+We start with the blank template provided by Clara (download on this page). You can [download it there](https://github.com/francois-gm/go-kabk-y1a/blob/main/06%20-%2020241014%20-%20CSS/my-project-template.zip).
