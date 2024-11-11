@@ -32,6 +32,18 @@ In short:
 - **“Social”** functions: [...] the manifest function of education is to teach children skills/knowledge and familiarize them with social norms. [...] ... but social functions contain inequalities. In other words, [...] all institutions/practices are not beneficial to all individuals [...] the social function of some institutions was also to oppress and constrain many members of society.
 - Examples of **mathematical** functions in real life include: Estimating animal populations; Determining risk factors for insurance rates, etc.
 
+Or:
+
+```
+**A soda, snack, or stamp machine**
+
+The user puts in money, punches a specific button, and a specific item drops into the output slot. (The function rule is the product price. The input is the money combined with the selected button. The output is the product, sometimes delivered along with coins in change, if the user has entered more money than required by the function rule.)
+
+Source: https://www.educationworld.com/a_curr/mathchat/mathchat010.shtml
+```
+
+(source: [www.educationworld.com](https://www.educationworld.com/a_curr/mathchat/mathchat010.shtml) )
+
 ## To do for next calss:
 
 1) **Think of a function**
