@@ -2,16 +2,17 @@
 
 ## Presentation
 
-- Think about a 'function' (see below for more context), write its protocol, and design it in a (semi) interactive way.
-- In the format of an (interactive) HTML page or a serie of HTML pages that uses CSS and a bit of JavaScript.
+- Think about a **'function'** (see below for more context), **write its protocol**, and **design it** in a (semi) interactive way.
+- In the format of an **(interactive) HTML page** or a **serie of HTML pages** that uses CSS and a bit of JavaScript.
+- You can be **down-to-earth** or pragmatic, but also more **wild** and subjective about your input, your function, and your output. This is **up to you**.
 
 Schedule:
 
 - **11 November**: introduction of the assignment
 - **18 November**: individual/small group follow-up on the assignment (4h)
 - **25 November**: individual/small group follow-up on the assignment (2h)
-- **02 December**: individual/small group follow-up on the assignment (2h)
-- **09 December**: delivery and presentation of the assignment in class
+- **2 December**: individual/small group follow-up on the assignment (2h)
+- **9 December**: delivery and presentation of the assignment in class
 
 ## What is a function?
 
@@ -32,14 +33,15 @@ In short:
 - **“Social”** functions: [...] the manifest function of education is to teach children skills/knowledge and familiarize them with social norms. [...] ... but social functions contain inequalities. In other words, [...] all institutions/practices are not beneficial to all individuals [...] the social function of some institutions was also to oppress and constrain many members of society.
 - Examples of **mathematical** functions in real life include: Estimating animal populations; Determining risk factors for insurance rates, etc.
 
-Or:
+Or: **A soda, snack, or stamp machine**
 
 ```
-**A soda, snack, or stamp machine**
+The user puts in money, punches a specific button, and a specific item drops into the output slot.
 
-The user puts in money, punches a specific button, and a specific item drops into the output slot. (The function rule is the product price. The input is the money combined with the selected button. The output is the product, sometimes delivered along with coins in change, if the user has entered more money than required by the function rule.)
-
-Source: https://www.educationworld.com/a_curr/mathchat/mathchat010.shtml
+The function rule is the product price.
+The input is the money combined with the selected button.
+The output is the product, sometimes delivered along with coins in change,
+if the user has entered more money than required by the function rule.
 ```
 
 (source: [www.educationworld.com](https://www.educationworld.com/a_curr/mathchat/mathchat010.shtml) )
@@ -73,8 +75,8 @@ You will produce a small web project that materialises your function and how it 
 
 Think about:
 
-- The use of several webpages to convey the input, 'path' (function process) and the output. Each pages can be linked to others and then the 'conditions' can be met or not.
-- The use of JavaScript for creating basic interaction (buttons that change parts of the page when clicked, simple comparisons with JavaScript).
-- How the pages should look like in CSS and what text content should be there.
-- The visitor/viewer. Shall they relate to your function, shall they use it, shall they be 'caught' in it, or shall they 'reject' it. Shall the visitor provide input themselves?
+- The use of **several webpages** to **convey** the **input**, 'path' (**function process**) and the **output**. Each pages can be linked to others depending on when the **conditions** can be met or not.
+- The use of JavaScript for creating **basic interaction** (buttons that change parts of the page when clicked, simple comparisons with JavaScript).
+- How the pages should **look like in CSS** and what **text** content should be there.
+- The **visitor/viewer**. Shall they relate to your function, shall they use it, shall they be 'caught' in it, or shall they 'reject' it. Shall the visitor provide input themselves?
 
