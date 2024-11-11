@@ -50,7 +50,7 @@ where `citrusCount` equals to **7**.
 
 ### Naming convention
 
-In JavaScript, elements names (variables, functions) can contain letters (both uppercase and lowercase), numbers, underscores, and dollar signs. However, the names can not begin with numbers.
+In JavaScript, elements names (variables, functions) can contain *letters* (both *uppercase* and *lowercase*), *numbers*, *underscores*, and *dollar signs*. However, the names can not begin with numbers.
 
 **Valid** names:
 
