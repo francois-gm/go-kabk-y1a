@@ -48,6 +48,28 @@ let citrusCount = orangeCount + lemonCount;
 ```
 where `citrusCount` equals to **7**.
 
+### Naming convention
+
+In JavaScript, elements names (variables, functions) can contain letters (both uppercase and lowercase), numbers, underscores, and dollar signs. However, the names can not begin with numbers.
+
+**Valid** names:
+
+```
+var Name;
+var My_Name;
+var $Name;
+var _Name;
+var Name123;
+```
+
+**Non valid** names:
+
+```
+var My-name;  // Hyphens not allowed
+var 123myName;  // Can not start with numbers
+var My name;  // Spaces not allowed
+```
+
 ### Events and functions
 
 *A JavaScript **function** is a block of code designed to perform a particular task. A JavaScript function is executed when "something" invokes it (calls it, an **event** as an example)*
