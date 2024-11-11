@@ -45,8 +45,8 @@ Duration of the presentation: **around 2 minutes** per person.
 | October 21 (class 7) | Yoonjin | http://v1.windows93.net |
 | November 4 (class 8) | Kaja | https://poolsuite.net |
 | November 4 (class 8) | Max | https://cursed.epic.net/ |
-| November 11 (class 9) | Yalizah | |
-| November 11 (class 9) | Maria | |
+| November 11 (class 9) | Yalizah | https://www.cameronsworld.net/ |
+| November 11 (class 9) | Maria | https://radiooooo.com/ |
 | November 18 (class 10) | Femke | |
 | November 18 (class 10) | Alexandr | |
 | November 25 (class 11) | Myrto | |
