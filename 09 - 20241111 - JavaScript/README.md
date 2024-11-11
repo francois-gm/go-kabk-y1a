@@ -10,7 +10,7 @@ Essential terminology:
   - What is [an event](https://www.javatpoint.com/javascript-events) (event handler with [addEventListener](https://www.w3schools.com/jsref/met_document_addeventlistener.asp))?
   - What is a [function](https://www.w3schools.com/js/js_functions.asp)?
   - What is a [conditional statement](https://www.w3schools.com/js/js_comparisons.asp)?
-  - What are javascript [expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators) and [operators](https://www.w3schools.com/js/js_operators.asp)?
+  - What are javascript [operators](https://www.w3schools.com/js/js_operators.asp)?
 
 ### Variables
 
@@ -83,14 +83,6 @@ where above is the function and below is an event that invokes the function
 ```
 document.addEventListener("click", myFunction);
 ```
-
-### Expressions
-
-*In JavaScript, an expression is a valid unit of code that resolves to a value*
-
-- `5 + 3` produces 8
-- `50 * 2` produces 100
-- `"myText"` produces "myText"
 
 ### Operators
 
