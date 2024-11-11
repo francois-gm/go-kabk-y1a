@@ -93,9 +93,9 @@ document.addEventListener("click", myFunction);
 ```
 let juiceType;
 
-if( (lemonCount >= 0) && (orangeCount == 0) ){
+if( (lemonCount > 0) && (orangeCount == 0) ){
   juiceType = lemonade;
-else if ( (lemonCount >= 0) && (orangeCount >= 0) ){
+else if ( (lemonCount > 0) && (orangeCount > 0) ){
   juiceType = citrusPunch;
 else{
   juiceType = fruitPunch;
