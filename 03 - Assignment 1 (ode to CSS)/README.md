@@ -33,7 +33,7 @@ See table below:
 
 | | CSS property | Name |
 | -------- | --------  | --------------------- |
-| **Decoration**  | -  | - |
+| **Decoration**  | | |
 | 1 | CSS colors (`#hex`, `rgb`), `color`, `background-color` | Nell |
 | 2 | `opacity` | Jeungin |
 | 3 | `border` | Timmy |
