@@ -46,7 +46,7 @@ if the user has entered more money than required by the function rule.
 
 (source: [www.educationworld.com](https://www.educationworld.com/a_curr/mathchat/mathchat010.shtml) )
 
-## To do for next calss:
+## To do for next class:
 
 1) **Think of a function**
    - **Input**
