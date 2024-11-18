@@ -47,8 +47,8 @@ Duration of the presentation: **around 2 minutes** per person.
 | November 4 (class 8) | Max | https://cursed.epic.net/ |
 | November 11 (class 9) | Yalizah | https://www.cameronsworld.net/ |
 | November 11 (class 9) | Maria | https://radiooooo.com/ |
-| November 18 (class 10) | Femke | |
-| November 18 (class 10) | Alexandr | |
+| November 18 (class 10) | Femke | https://www.malaproject.com |
+| November 18 (class 10) | Alexandr | https://kidpix.app/?ref=fuse-kiwi |
 | November 25 (class 11) | Myrto | |
 | November 25 (class 11) | Andrei | |
 | December 2 (class 12) | Olya | |
