@@ -2,7 +2,7 @@
 
 ## *Poetic function* assignment time, sign-up sheet
 
-| Time slot | Student |
+| Time slot (35min per group) | Student |
 | -- | -------------- |
 | 13h45 | Nell, Khulan, Isaac, Kaja |
 | 14h20 | Jeungin, Lucile, Timmy, Maria |
