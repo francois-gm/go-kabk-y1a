@@ -34,4 +34,4 @@ Houses
 | Olya | - |
 | Mani | - |
 | Isaac | - |
-| Amy | https://timely-arithmetic-f3414d.netlify.app/ | Isaac |
+| Amy | - |
