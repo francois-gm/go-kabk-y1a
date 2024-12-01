@@ -6,8 +6,8 @@
 | -- | -------------- |
 | 13h45 | Femke, Alexandr, Duru, Mathilde |
 | 14h20 | Max, Nell, Khulan, Yalizah |
-| 14h55 | Andrei, Kaja, Lucile, Issac |
+| 14h55 | Timmy, Kaja, Lucile, Issac |
 | 15h30 | BREAK (15min) |
-| 15h45 | Myrto, Maria, Timmy, Jeungin |
+| 15h45 | Myrto, Maria, Mani, Jeungin |
 | 16h20 | Yoonjin, Amy, Sam |
-| 16h55 | Fedja, Mani, Olya |
+| 16h55 | Fedja, Andrei, Olya |
