@@ -40,7 +40,7 @@ function getRandomPage() {
 randomButton.addEventListener("click", function () {
 
 	const randomNumber = getRandomPage();
-
+	
 	// this one has no 'back/forward' browser button mechanism
 	window.location.replace(randomPages[randomNumber]);
 
