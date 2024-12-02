@@ -4,10 +4,10 @@
 
 | Time slot (35min per group) | Student |
 | -- | -------------- |
-| 13h45 | Femke, Alexandr, Jeungin, Mathilde |
+| 13h45 | Fedja, Alexandr, Jeungin, Mathilde |
 | 14h20 | Max, Nell, Khulan, Yalizah |
 | 14h55 | Timmy, Kaja, Lucile, Issac |
 | 15h30 | BREAK (15min) |
 | 15h45 | Myrto, Maria, Mani, Duru |
 | 16h20 | Yoonjin, Amy, Sam |
-| 16h55 | Fedja, Andrei, Olya |
+| 16h55 | Femke, Andrei, Olya |
