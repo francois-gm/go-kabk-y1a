@@ -34,7 +34,7 @@ Points you can include in your sentence:
 - What could work better?
 - What is the overall experience?
 
-Use this [writing pad](https://pad.xpub.nl/p/Y1A_peer_reviews)
+Write your sentences in [this writing pad](https://pad.xpub.nl/p/Y1A_peer_reviews).
 
 #### 2) Showcasing your website (45min)
 
