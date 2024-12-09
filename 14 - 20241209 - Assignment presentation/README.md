@@ -17,26 +17,26 @@ Add your url to the list.
 
 ### b) Presentation
 
-A) Peer reviews
+1) Peer reviews
 
 - You will have to collectively review every student's projects (!) For this we will use EtherPad, which allows to collaboratively (and anonymously) edit text in real time. 
 
-For each project: write **one sentence** that summarizes the project. First take **one minute** to **navigate the project**, and **one minute** to **write** that sentence. The sentence shall have the form of an 'appraisal'. Please highlight positive points as well as bring a point of critique if that is relevant.
+For each project (except yours): write **one sentence** that summarizes the project. First take **one minute** to **navigate the project**, and **one minute** to **write** that sentence. The sentence shall have the form of an 'appraisal'. Please highlight positive points as well as bring a point of critique if that is relevant.
 
 **What is critique?** *Not* equal to criticism. Critique more as the *faculty* of judging (a method of disciplined, systematic study).
+
+Points you can include in your sentence:
 
 - What it does?
 - What works well?
 - What could work better?
 - What is the overall experience?
 
-- Use this ✨ [writing pad](https://pad.xpub.nl/p/Y1A_peer_reviews) ✨
+Use this [writing pad](https://pad.xpub.nl/p/Y1A_peer_reviews)
 
-Write one sentence that summarizes the project. Take one minute to navigate the project, and one minute to write that sentence.
+2) Presentation
 
-Then:
-
-- TBA
+Then you will present your website in front of the class. Besides that, you will pick three sentences and will read them out loud.
 
 | Name | URL |
 | -- | -------------- | 
