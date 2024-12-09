@@ -23,7 +23,7 @@ Also add the *house* workshop url to the list following the same procedure.
 
 - You will have to collectively review every student's projects (!) For this we will use EtherPad, which allows to collaboratively (and anonymously) edit text in real time. 
 
-For each project (except yours): write **three sentence** that summarizes the project. First take **one minute** to **navigate the project**, and **one minute** to **write** that sentence. The sentence shall have the form of an 'appraisal'. Please highlight positive points as well as bring a point of critique if that is relevant.
+For each project (except yours): write **one sentence** that summarizes the project. First take **one minute** to **navigate the project**, and **one minute** to **write** that sentence. The sentence shall have the form of an 'appraisal'. Please highlight positive points as well as bring a point of critique if that is relevant.
 
 **What is critique?** *Not* equal to criticism. Critique more as the *faculty* of judging (a method of disciplined, systematic study).
 
