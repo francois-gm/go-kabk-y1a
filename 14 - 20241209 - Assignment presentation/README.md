@@ -46,28 +46,28 @@ Then read out these three sentences.
 
 | Name | URL |
 | -- | -------------- | 
-| Lucile | - |
-| Sam | - |
-| Matilde | - |
-| Jeungin | - |
-| Nell | - |
-| Khulan | - |
-| Timmy | - |
-| Fedja | - |
-| Duru | - |
-| Yoonjin | - |
-| Kaja | - |
-| Max | - |
-| Yalizah | - |
-| Maria | - |
-| Femke | - |
-| Alexandr | - |
-| Myrto | - |
-| Andrei | - |
-| Olya | - |
-| Mani | - |
-| Isaac | - |
-| Amy | - |
+| Lucile | https://ihopemyglassesdontbrake.netlify.app |
+| Sam | https://moonlit-pothos-dabf3d.netlify.app/ (broken scissor image version) |
+| Matilde | https://ornate-cajeta-c9b90e.netlify.app |
+| Jeungin | https://wondrous-rolypoly-909495.netlify.app |
+| Nell | https://curious-sunburst-070a89.netlify.app/ |
+| Khulan | https://songrecommendationfunction.netlify.app |
+| Timmy | https://elevator151224.netlify.app (audio issues) |
+| Fedja | https://lucky-starburst-cb4b3d.netlify.app |
+| Duru | https://prismatic-vacherin-4c3c21.netlify.app |
+| Yoonjin | https://legendary-paletas-a072b1.netlify.app |
+| Kaja | https://luxury-bienenstitch-8aca06.netlify.app (WIP) |
+| Max | https://sparkling-lollipop-a61648.netlify.app/ (audio works in firefox) |
+| Yalizah | https://extraordinary-donut-0dd803.netlify.app |
+| Maria | https://sensational-pithivier-ce3122.netlify.app |
+| Femke | https://spectacular-hamster-388dbd.netlify.app |
+| Alexandr | https://clinquant-biscuit-5f8593.netlify.app |
+| Myrto | https://amazing-capybara-b5cd7b.netlify.app |
+| Andrei | https://bosskingfight.netlify.app/ |
+| Olya | https://radiant-bonbon-2169e2.netlify.app/ |
+| Mani | https://silver-faloodeh-41a243.netlify.app |
+| Isaac | https://imaginative-paletas-0f732e.netlify.app/ |
+| Amy | https://papaya-douhua-cde35b.netlify.app |
 
 ## Archiving your projects
 
