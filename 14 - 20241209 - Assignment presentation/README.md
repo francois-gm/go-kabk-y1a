@@ -68,3 +68,5 @@ Then read out these three sentences.
 | Mani | - |
 | Isaac | - |
 | Amy | - |
+
+3) https://kabk.francoisgm.com/24-25/y1/a/
