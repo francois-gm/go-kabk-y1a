@@ -1,12 +1,12 @@
 # Class 14, 2024/12/09
 
-## Intro (15min)
+## Intro (20min)
 
 - A website you like (Olya, Amy, Isaac, François)
 
 ## *Poetic function*, each present their final project (2h)
 
-### a) Put your website online (15min)
+### a) Put your website online (30min)
 
 1) Create an account on [Netlify](https://app.netlify.com).
 2) `Site` -> `Deploy manually` (`browse to upload`).
@@ -15,9 +15,11 @@
 
 Add your url to the list.
 
+Also add the *house* workshop url to the list following the same procedure.
+
 ### b) Presentation
 
-#### 1) Peer reviews
+#### 1) Peer reviews (1h)
 
 - You will have to collectively review every student's projects (!) For this we will use EtherPad, which allows to collaboratively (and anonymously) edit text in real time. 
 
@@ -34,9 +36,13 @@ Points you can include in your sentence:
 
 Use this [writing pad](https://pad.xpub.nl/p/Y1A_peer_reviews)
 
-#### 2) Presentation
+#### 2) Showcasing your website (45min)
 
-Then you will present your website in front of the class. Besides that, you will pick three sentences and will read them out loud.
+First, look at the list. Pick up **three** sentences that you think summarize the best your project.
+
+You will present your website to the class. Show how it works.
+
+Then read out these three sentences.
 
 | Name | URL |
 | -- | -------------- | 
