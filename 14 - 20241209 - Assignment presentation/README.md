@@ -17,7 +17,7 @@ Add your url to the list.
 
 ### b) Presentation
 
-1) Peer reviews
+#### 1) Peer reviews
 
 - You will have to collectively review every student's projects (!) For this we will use EtherPad, which allows to collaboratively (and anonymously) edit text in real time. 
 
@@ -34,7 +34,7 @@ Points you can include in your sentence:
 
 Use this [writing pad](https://pad.xpub.nl/p/Y1A_peer_reviews)
 
-2) Presentation
+#### 2) Presentation
 
 Then you will present your website in front of the class. Besides that, you will pick three sentences and will read them out loud.
 
