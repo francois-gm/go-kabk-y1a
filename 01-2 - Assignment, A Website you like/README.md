@@ -50,11 +50,11 @@ Duration of the presentation: **around 2 minutes** per person.
 | November 18 (class 10) | Femke | https://www.malaproject.com |
 | November 18 (class 10) | Alexandr | https://kidpix.app/?ref=fuse-kiwi |
 | November 25 (class 11) | Myrto | https://kanaal40.tv |
-| November 25 (class 11) | Andrei | |
+| November 25 (class 11) | Andrei | https://superinternet.world/play/?x=0&z=0 |
 | December 2 (class 12) | Olya | https://theuselessweb.com |
 | December 2 (class 12) | Mani | https://www.islandpaafilm.dk/is |
-| December 9 (class 13) | Isaac | |
-| December 9 (class 13) | Amy | |
+| December 9 (class 13) | Isaac | https://standardsmanual.com/ |
+| December 9 (class 13) | Amy | https://www.studio-job.com/ |
 
 
 ## Ressources list
